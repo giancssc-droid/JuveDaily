@@ -3,12 +3,13 @@ import html
 import re
 
 from datetime import datetime, timezone, timedelta
+from feedgen.feed import FeedGenerator
 
 RSS_URL = "https://reader.rssground.com/public.php?op=rss&id=4086&is_cat=1&key=4q355x6a4810ed7ed88"
 
-feed = feedparser.parse(RSS_URL)
-
 LIMIT_HOURS = 12
+
+feed = feedparser.parse(RSS_URL)
 
 now = datetime.now(timezone.utc)
 
@@ -17,8 +18,10 @@ news = []
 for entry in feed.entries:
 
     try:
-
-        updated = datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc)
+        updated = datetime(
+            *entry.updated_parsed[:6],
+            tzinfo=timezone.utc
+        )
 
         if updated < now - timedelta(hours=LIMIT_HOURS):
             continue
@@ -26,7 +29,6 @@ for entry in feed.entries:
     except:
         continue
 
-    title = entry.get("title", "")
     summary = entry.get("summary", "")
     link = entry.get("link", "")
 
@@ -35,7 +37,6 @@ for entry in feed.entries:
     text = re.sub(r"<[^>]+>", "", text)
 
     text = text.replace("�", "")
-
     text = text.replace("��", "")
 
     text = text.replace("\n", " ")
@@ -44,7 +45,6 @@ for entry in feed.entries:
 
     lower = text.lower()
 
-    # Basura
     if any(x in lower for x in [
         "pinned",
         "youtu.be",
@@ -59,19 +59,16 @@ for entry in feed.entries:
 
     news.append({
         "date": updated,
-        "title": title,
         "text": text,
         "link": link
     })
-
-# ordenar por fecha
 
 news.sort(
     key=lambda x: x["date"],
     reverse=True
 )
 
-# eliminar duplicados simples
+# eliminar duplicados
 
 unique = []
 seen = set()
@@ -89,7 +86,9 @@ for item in news:
 
 news = unique
 
+# ==========================
 # HTML
+# ==========================
 
 html_output = f"""
 <!DOCTYPE html>
@@ -177,6 +176,42 @@ with open(
 ) as f:
     f.write(html_output)
 
+# ==========================
+# RSS XML
+# ==========================
+
+fg = FeedGenerator()
+
+fg.title("Juventus Daily")
+fg.description("Juventus Daily Feed - Últimas 12 horas")
+fg.link(
+    href="https://giancssc-droid.github.io/JuveDaily/"
+)
+
+for item in news[:50]:
+
+    fe = fg.add_entry()
+
+    fe.title(item["text"][:120])
+
+    fe.description(item["text"])
+
+    fe.link(
+        href=item["link"]
+    )
+
+    fe.guid(
+        item["link"]
+    )
+
+    fe.pubDate(
+        item["date"]
+    )
+
+fg.rss_file(
+    "juventus_daily.xml"
+)
+
 print(
-    f"Juventus Daily generado con {len(news)} noticias"
+    f"Generadas {len(news)} noticias"
 )
