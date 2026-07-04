@@ -1,77 +1,110 @@
 # JuveDaily
 
-Automated Juventus news digest powered by RSS and GitHub Actions.
+Resumen diario de noticias, mercado y actualidad de la Juventus.
 
-## Overview
+## Descripción
 
-JuveDaily collects Juventus-related news from public RSS sources and generates both a web page and RSS feed focused on the latest developments around the club.
+JuveDaily es un proyecto personal diseñado para centralizar las noticias más importantes relacionadas con la Juventus en un único resumen diario.
 
-The project is designed to provide a fast daily briefing without having to monitor multiple Telegram channels, websites, and news sources.
+El objetivo es evitar revisar múltiples sitios web, periodistas y redes sociales para mantenerse informado sobre fichajes, renovaciones, lesiones, calendario, resultados y actualidad del club.
 
-## Sources
+## Objetivos
 
-Current source:
+* Centralizar la información de la Juventus en un solo lugar.
+* Priorizar fuentes confiables y periodistas de referencia.
+* Reducir rumores de baja credibilidad.
+* Facilitar la lectura rápida de las noticias más relevantes.
+* Generar resúmenes diarios consistentes y fáciles de consumir.
 
-- RSSGround feed aggregation
-  - GJustJuve
-  - PuebloJ
-  - JNetwork24
-  - Fabrizio Romano references
-  - Romeo Agresti references
-  - Tuttosport references
-  - Additional Juventus-related channels
+## Fuentes
 
-## Features
+### Fuentes Oficiales
 
-- Automatic updates via GitHub Actions
-- Last 12 hours filtering
-- Duplicate removal
-- HTML daily digest
-- RSS output
-- Direct Telegram links
+* Juventus FC
+* Serie A
+* UEFA
 
-## Public URLs
+### Periodistas de Referencia
 
-Daily Digest:
+* Fabrizio Romano
+* Giovanni Albanese
+* Romeo Agresti
+* Matteo Moretto
+* Gianluca Di Marzio
 
-https://giancssc-droid.github.io/JuveDaily/juventus_daily.html
+### Medios Especializados
 
-RSS Feed:
+* Tuttosport
+* Goal Italia
+* Sky Sport Italia
+* La Gazzetta dello Sport
 
-https://giancssc-droid.github.io/JuveDaily/juventus_daily.xml
+Las fuentes pueden ampliarse o ajustarse según su fiabilidad y relevancia.
 
-## Generated Content
+## Contenido del Resumen
 
-The digest may include:
+El resumen diario puede incluir:
 
-- Transfer market news
-- Official announcements
-- Club updates
-- Contract news
-- Juventus Women news
-- Media reports
-- Telegram source updates
+* Noticias del club.
+* Mercado de fichajes.
+* Renovaciones y contratos.
+* Lesiones y recuperaciones.
+* Convocatorias.
+* Resultados.
+* Calendario de partidos.
+* Declaraciones de jugadores y cuerpo técnico.
+* Rumores destacados.
+* Información oficial de la Juventus.
 
-## Automation
+## Metodología
 
-GitHub Actions rebuilds the digest automatically.
+Las noticias se organizan priorizando:
 
-## Tech Stack
+1. Fuentes oficiales.
+2. Periodistas de máxima fiabilidad.
+3. Medios especializados.
+4. Rumores y especulación.
 
-- Python
-- FeedParser
-- FeedGen
-- GitHub Actions
-- GitHub Pages
+El objetivo es ofrecer información clara y contextualizada, minimizando el ruido informativo.
 
-## Purpose
+## Automatización
 
-Personal Juventus monitoring system designed to provide a quick overview of the most important developments each day.
+El proyecto utiliza herramientas de agregación y clasificación para recopilar información de múltiples fuentes y facilitar la creación del resumen diario.
 
+## Tecnologías Utilizadas
 
+* RSS
+* GitHub
+* GitHub Actions
+* Herramientas de automatización
+* Flujos de trabajo asistidos por IA
 
-## Status
+## Roadmap
 
-Active project.
+### Versión 1
 
-Maintained for personal use.
+* Agregación de noticias.
+* Clasificación de fuentes.
+* Resumen diario.
+
+### Versión 2
+
+* Sistema de prioridad por periodista.
+* Seguimiento de mercado de fichajes.
+* Historial de noticias.
+
+### Versión 3
+
+* Resúmenes automáticos mejorados.
+* Archivo histórico.
+* Seguimiento de temporadas.
+
+## Propósito
+
+JuveDaily funciona como un centro personal de información sobre la Juventus, diseñado para obtener cada día las noticias más relevantes sin necesidad de consultar múltiples fuentes manualmente.
+
+## Estado del Proyecto
+
+🟢 Activo
+
+Proyecto mantenido para uso personal.
