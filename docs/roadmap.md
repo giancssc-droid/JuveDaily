@@ -29,6 +29,13 @@
 - Agrupación por tema.
 - Archivo histórico de noticias.
 
+### Versión 4
+
+- Clasificación automática por tema
+- Seguimiento de lesiones
+- Seguimiento de renovaciones
+- Seguimiento de mercado en tiempo real
+
 ### Futuro
 - Estadísticas de jugadores.
 - Seguimiento de cantera.
