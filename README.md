@@ -24,13 +24,16 @@ El objetivo es evitar revisar múltiples sitios web, periodistas y redes sociale
 * Serie A
 * UEFA
 
-### Periodistas de Referencia
+### Fuentes Prioritarias
 
-* Fabrizio Romano
-* Giovanni Albanese
-* Romeo Agresti
-* Matteo Moretto
-* Gianluca Di Marzio
+### Tier 1
+- Fabrizio Romano
+- Gianluca Di Marzio
+- Romeo Agresti
+
+### Tier 2
+- Matteo Moretto
+- Giovanni Albanese
 
 ### Medios Especializados
 
