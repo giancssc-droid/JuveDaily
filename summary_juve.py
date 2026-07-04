@@ -4,31 +4,13 @@ RSS_URL = "https://reader.rssground.com/public.php?op=rss&id=4086&is_cat=1&key=4
 
 feed = feedparser.parse(RSS_URL)
 
-print("TOTAL:", len(feed.entries))
+entry = feed.entries[0]
 
-for entry in feed.entries[:10]:
+print("TITLE")
+print(entry.get("title"))
 
-    print("=" * 80)
+print("\nSUMMARY")
+print(entry.get("summary"))
 
-    print("TITLE:")
-    print(entry.get("title"))
-
-    print()
-
-    print("PUBLISHED:")
-    print(entry.get("published"))
-
-    print()
-
-    print("UPDATED:")
-    print(entry.get("updated"))
-
-    print()
-
-    print("LINK:")
-    print(entry.get("link"))
-
-    print()
-
-    print("AVAILABLE FIELDS:")
-    print(list(entry.keys()))
+print("\nCONTENT")
+print(entry.get("content"))
