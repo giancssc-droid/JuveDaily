@@ -67,3 +67,11 @@ GitHub Actions rebuilds the digest automatically.
 ## Purpose
 
 Personal Juventus monitoring system designed to provide a quick overview of the most important developments each day.
+
+
+
+## Status
+
+Active project.
+
+Maintained for personal use.
