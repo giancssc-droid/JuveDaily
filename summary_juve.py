@@ -5,23 +5,15 @@ RSS_URL = "https://reader.rssground.com/public.php?op=rss&id=4086&is_cat=1&key=4
 
 feed = feedparser.parse(RSS_URL)
 
-players = {
-    "Goretzka": [],
-    "Kolo Muani": [],
-    "Emiliano Martínez": [],
-    "Bremer": [],
-    "Kessié": [],
-    "Sancho": [],
-    "Conceição": [],
-    "Vlahovic": [],
-    "Douglas Luiz": []
-}
-
 official = []
+incoming = []
+outgoing = []
 analysis = []
 other = []
 
-for entry in feed.entries[:100]:
+seen = set()
+
+for entry in feed.entries[:150]:
 
     title = entry.get("title", "")
     summary = entry.get("summary", "")
@@ -46,40 +38,89 @@ for entry in feed.entries[:100]:
     ]):
         continue
 
-    if "@juventusfc" in lower or "oficial" in lower:
-        official.append(text[:300])
+    if len(text) < 20:
         continue
 
-    if "carnevali" in lower:
-        analysis.append(text[:300])
+    clean = title.lower().strip()
+
+    if clean in seen:
         continue
 
-    found = False
+    seen.add(clean)
 
-    keywords = {
-        "Goretzka": ["goretzka"],
-        "Kolo Muani": ["kolo", "kolomuani"],
-        "Emiliano Martínez": ["martinez", "martínez"],
-        "Bremer": ["bremer"],
-        "Kessié": ["kessie", "kessié"],
-        "Sancho": ["sancho"],
-        "Conceição": ["conceicao", "conceição"],
-        "Vlahovic": ["vlahovic"],
-        "Douglas Luiz": ["douglas luiz"]
-    }
+    # -------------------------
+    # OFICIAL
+    # -------------------------
 
-    for player, words in keywords.items():
+    if any(x in lower for x in [
+        "@juventusfc",
+        "oficial",
+        "official",
+        "signed",
+        "announced",
+        "contract until"
+    ]):
 
-        if any(w in lower for w in words):
+        official.append(text[:350])
+        continue
 
-            players[player].append(text[:350])
+    # -------------------------
+    # ANALISIS
+    # -------------------------
 
-            found = True
+    if any(x in lower for x in [
+        "carnevali",
+        "strategy",
+        "project",
+        "opinion",
+        "analysis"
+    ]):
 
-            break
+        analysis.append(text[:350])
+        continue
 
-    if not found:
-        other.append(text[:250])
+    # -------------------------
+    # SALIDAS
+    # -------------------------
+
+    if any(x in lower for x in [
+        "bayern",
+        "departure",
+        "exit",
+        "leave",
+        "leaving",
+        "wanted by",
+        "sale",
+        "sold"
+    ]):
+
+        outgoing.append(text[:350])
+        continue
+
+    # -------------------------
+    # ENTRADAS
+    # -------------------------
+
+    if any(x in lower for x in [
+        "contact",
+        "contacts",
+        "talks",
+        "meeting",
+        "offer",
+        "interested",
+        "interest",
+        "target",
+        "plan a",
+        "negotiating",
+        "negotiation",
+        "mercato",
+        "transfer"
+    ]):
+
+        incoming.append(text[:350])
+        continue
+
+    other.append(text[:300])
 
 html = f"""
 <!DOCTYPE html>
@@ -98,23 +139,23 @@ body {{
     line-height: 1.6;
 }}
 
-.section {{
-    margin-top: 30px;
-}}
-
 h1 {{
     text-align:center;
 }}
 
-h2 {{
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 5px;
+.section {{
+    margin-top: 30px;
 }}
 
 .card {{
-    margin-bottom: 15px;
-    padding: 10px;
     background: #f7f7f7;
+    padding: 12px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+}}
+
+.updated {{
+    color: #666;
 }}
 
 </style>
@@ -124,51 +165,40 @@ h2 {{
 
 <h1>Juventus Daily</h1>
 
-<p>
+<p class="updated">
 Actualizado:
 {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}
 </p>
 """
 
-if official:
-
-    html += "<div class='section'><h2>⚪ Oficial</h2>"
-
-    for item in official[:10]:
+if incoming:
+    html += "<div class='section'><h2>🔥 Mercado de Entradas</h2>"
+    for item in incoming[:20]:
         html += f"<div class='card'>{item}</div>"
+    html += "</div>"
 
+if outgoing:
+    html += "<div class='section'><h2>🚪 Mercado de Salidas</h2>"
+    for item in outgoing[:20]:
+        html += f"<div class='card'>{item}</div>"
+    html += "</div>"
+
+if official:
+    html += "<div class='section'><h2>⚪ Oficial</h2>"
+    for item in official[:15]:
+        html += f"<div class='card'>{item}</div>"
     html += "</div>"
 
 if analysis:
-
     html += "<div class='section'><h2>📰 Análisis</h2>"
-
-    for item in analysis[:10]:
+    for item in analysis[:15]:
         html += f"<div class='card'>{item}</div>"
-
     html += "</div>"
 
-html += "<div class='section'><h2>🔥 Mercato</h2>"
-
-for player, news in players.items():
-
-    if not news:
-        continue
-
-    html += f"<h3>{player}</h3>"
-
-    for item in news[:3]:
-        html += f"<div class='card'>{item}</div>"
-
-html += "</div>"
-
 if other:
-
-    html += "<div class='section'><h2>📋 Otras noticias</h2>"
-
-    for item in other[:10]:
+    html += "<div class='section'><h2>📋 Otras Noticias</h2>"
+    for item in other[:15]:
         html += f"<div class='card'>{item}</div>"
-
     html += "</div>"
 
 html += """
@@ -183,4 +213,4 @@ with open(
 ) as f:
     f.write(html)
 
-print("Juventus Daily V2 generado")
+print("Juventus Daily V3 generado")
