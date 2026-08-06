@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-06T21:15:17.150091+00:00",
+  "generated_at_utc": "2026-08-06T22:07:54.606612+00:00",
   "today_venezuela": "2026-08-06",
   "today_venezuela_readable": "Thursday 06 de August de 2026",
   "tier_1_journalists": [
@@ -13,18 +13,284 @@
   ],
   "news": [
     {
-      "source": "juvefc",
-      "title": "Spalletti Defends David’s Brief Cameo in Juventus Pre-Season Win",
-      "text": "Luciano Spalletti says Jonathan David's early substitution against Chelsea was always the plan, as Juventus managed minutes carefully in their 1-0 Hong Kong win. The post Spalletti Defends David’s Brief Cameo in Juventus Pre-Season Win appeared first on Juvefc.com.",
-      "link": "https://www.juvefc.com/jonathan-david-juventus-preseason-spalletti-explains/",
-      "published": "2026-08-06T16:00:00+00:00"
+      "source": "tuttojuve",
+      "title": "Clamoroso no di Risser!",
+      "text": "Robin Risser ha deciso di togliersi dal mercato, il portiere francese, protagonista di una stagione di altissimo livello con il Lens, era finito nel mirino di due grandi club europei come Paris Saint-Germain e Juventus, ma avrebbe comunicato alla pro ...",
+      "link": "https://www.tuttojuve.com/calciomercato/clamoroso-risser-788305",
+      "published": "2026-08-06T22:00:59+00:00"
     },
     {
-      "source": "juvefc",
-      "title": "Yildiz Fit for Verona as Vlahovic Eyes Starting Role — Spalletti",
-      "text": "Spalletti confirms Kenan Yildiz is pain-free and available vs Hellas Verona, with Dusan Vlahovic also ready to contribute in Juventus's final four matches. The post Yildiz Fit for Verona as Vlahovic Eyes Starting Role — Spalletti appeared first on Juvefc.com.",
-      "link": "https://www.juvefc.com/yildiz-fit-vlahovic-available-juventus-verona/",
-      "published": "2026-08-06T09:00:00+00:00"
+      "source": "gjustjuve",
+      "title": "Regarding Mateo #Pellegrino, we had spoken about a meeting in Milan between #Parma and #Fiorentina...",
+      "text": "Regarding Mateo #Pellegrino, we had spoken about a meeting in Milan between #Parma and #Fiorentina post mid-June. #Parma had inquired about #Piccoli who is now the center of other interests. #Pellegrino has waited and continues to wait for #Juventus which is now also focused on #Zirkzee.[Alfredo Pedullà]",
+      "link": "https://t.me/GJustjuve/70806",
+      "published": "2026-08-06T21:55:05+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "🚨 The #Fiorentina track for Mateo #Pellegrino has held strong since mid June, when we exclusively...",
+      "text": "🚨 The #Fiorentina track for Mateo #Pellegrino has held strong since mid June, when we exclusively revealed it, and still valid. The viola are searching for a new club for #Piccoli and are targeting the Argentine from #Parma who has been waiting for #Juventus for weeks and could break his hesitation in favor of the viola if there is an acceleration to finalize his exit from the ducali.[Gianluigi Longari]",
+      "link": "https://t.me/GJustjuve/70805",
+      "published": "2026-08-06T21:50:22+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Affondo dei direttori sul mercato. ALL-IN Juve, ma alle sue condizioni.",
+      "text": "Il mercato bianconero entra nella fase più calda: Suzuki, Zirkzee e Lucumí sono gli obiettivi. Intanto il popolo juventino saluta uno dei suoi tifosi più illustri.",
+      "link": "https://www.tuttojuve.com/firme-bianconere/affondo-direttori-mercato-all-in-juve-condizioni-788293",
+      "published": "2026-08-06T21:49:20+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "L'Atalanta ha pronta un'offerta da 20 milioni per Kristensen",
+      "text": "L'Atalanta continua a spingere per Thomas Kristensen, difensore classe 2002 dell'Udinese, individuato come uno dei principali obiettivi per rinforzare il reparto arretrato in questa sessione di mercato.",
+      "link": "https://www.tuttojuve.com/calciomercato/atalanta-pronta-offerta-20-kristensen-788310",
+      "published": "2026-08-06T21:40:11+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Non solo Licina: l'Avellino ha chiesto alla Juventus anche un altro giovane",
+      "text": "L'Avellino continua a lavorare per regalare ad Alessandro Nesta un rinforzo di qualità sulla trequarti.",
+      "link": "https://www.tuttojuve.com/calciomercato/licina-avellino-chiesto-juventus-giovane-788307",
+      "published": "2026-08-06T21:30:11+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Di Marzio: \"Pellegrino prima scelta della Fiorentina in caso di cessione di Piccoli\"",
+      "text": "La Fiorentina prepara le prossime mosse per il reparto offensivo e segue con attenzione l'evoluzione del possibile trasferimento di Roberto Piccoli al Bologna.",
+      "link": "https://www.tuttojuve.com/calciomercato/marzio-pellegrino-scelta-fiorentina-cessione-piccoli-788304",
+      "published": "2026-08-06T21:20:32+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Pellegrino in uscita, il Parma sta chiudendo per David Romero del Tigre",
+      "text": "Mentre si rincorrono le voci di mercato su Pellegrino, corteggiato dalla Juventus e da altri importanti club, il Parma si cautela.",
+      "link": "https://www.tuttojuve.com/calciomercato/pellegrino-uscita-parma-chiudendo-david-romero-tigre-788303",
+      "published": "2026-08-06T21:10:15+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Inter, Provedel già in clima derby d'Italia: \"Juve? Anche se è un'amichevole...\"",
+      "text": "Il portiere dell'Inter, Ivan Provedel, ha raccontato le sue prime impressioni in nerazzurro in un'intervista concessa a La Stampa, soffermandosi sul lavoro con Cristian Chivu, sull'inserimento nello spogliatoio e sulla prossima amichevole ...",
+      "link": "https://www.tuttojuve.com/l-avversario/inter-provedel-clima-derby-italia-juve-amichevole-788302",
+      "published": "2026-08-06T21:00:22+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Calciomercato Juventus h24 - Zirkzee apre. Douglas vuole restare. Clamorosa ipotesi Napoli per Koopmeiners. Pronti 3 colpi in entrata. Suzuki, attese novità. Nuova offerta a Kessiè? Cambiaso, futuro i",
+      "text": "23:10 - Pellegrino in uscita, il Parma sta chiudendo per David Romero del Tigre - (Leggi qui) 22:40 - Il Besiktas spera di convincere Vlahovic per rispondere al colpo Salah del Trabzonspor - (Leggi qui) 22:30 - Lucumì tra Juve e Che ...",
+      "link": "https://www.tuttojuve.com/calciomercato/calciomercato-juventus-h24-zirkzee-dice-s-alla-juventus-balerdi-resta-nei-radar-suzuki-in-pole-788185",
+      "published": "2026-08-06T21:00:00+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "#Lucumí: new dialogues on the way between #Juventus and #Bologna. The emiliano club is now asking...",
+      "text": "#Lucumí: new dialogues on the way between #Juventus and #Bologna. The emiliano club is now asking for 20 millions plus bonuses, while #Juve is starting from a lower figure. For now, #Lucumí continues to wait despite other offers.[Alfredo Pedullà]",
+      "link": "https://t.me/GJustjuve/70804",
+      "published": "2026-08-06T20:56:22+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "🇳🇱⚠️ \"There are some initial whispers on #Koopmeiners, it's true. I verified and...",
+      "text": "🇳🇱⚠️ \"There are some initial whispers on #Koopmeiners, it's true. I verified and found some confirmations about an exploratory attempt by English clubs, such as #Newcastle, but not only. We will see if these whispers will lead to a much more concrete situation, as #Juventus would prefer, since they do not consider him untouchable: someone will have to leave after all.\" [Alfredo Pedullà - Youtube via @juventusinsidernews]",
+      "link": "https://t.me/GJustjuve/70803",
+      "published": "2026-08-06T20:50:37+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Juventus, cosa va e cosa non va dopo la gara col Chelsea",
+      "text": "La vittoria per 1-0 sul Chelsea nell'amichevole di Hong Kong offre spunti incoraggianti, ma lascia ancora alcune questioni aperte in casa Juventus.",
+      "link": "https://www.tuttojuve.com/altre-notizie/juventus-gara-chelsea-788301",
+      "published": "2026-08-06T20:50:20+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "😱 SUITORS FOR #KOOPMEINERS #Napoli has asked for information, in recent hours, for Teun...",
+      "text": "😱 SUITORS FOR #KOOPMEINERS#Napoli has asked for information, in recent hours, for Teun #Koopmeiners. The Dutch midfielder is on the balance sheet for roughly 33 million - approximately - as of last July, and could leave if permanent offers arrive. In recent days, he has also been followed by #ManchesterUnited and #AstonVilla.[TuttoJuve via @AverageJuventinoGuy]",
+      "link": "https://t.me/GJustjuve/70802",
+      "published": "2026-08-06T20:43:41+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Il Besiktas spera di convincere Vlahovic per rispondere al colpo Salah del Trabzonspor",
+      "text": "Il futuro di Dusan Vlahovic continua a tenere banco sul mercato internazionale.",
+      "link": "https://www.tuttojuve.com/calciomercato/besiktas-spera-convincere-vlahovic-rispondere-colpo-salah-trabzonspor-788300",
+      "published": "2026-08-06T20:40:40+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "#Atlético is looking for a way to let Alexander #Sørloth leave and is asking around 40 million...",
+      "text": "#Atlético is looking for a way to let Alexander #Sørloth leave and is asking around 40 million euros for the transfer.The Norwegian striker is open to moving to the Turkish league, but only in exchange for a very lucrative contract.If #Sørloth were to leave, #Atlético would go after Dušan #Vlahović. #Beşiktaş is also after #Vlahović.[Matteo Moretto]",
+      "link": "https://t.me/GJustjuve/70801",
+      "published": "2026-08-06T20:35:23+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Lucumì tra Juve e Chelsea",
+      "text": "Il Bologna continua a concentrarsi sul fronte delle cessioni, passaggio ritenuto fondamentale per sbloccare le prossime operazioni di mercato. Tra i nomi più caldi c'è quello di John Lucumí, che resta in attesa di sviluppi.",
+      "link": "https://www.tuttojuve.com/calciomercato/lucumi-juve-chelsea-788299",
+      "published": "2026-08-06T20:30:38+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Cudrig, sfida Empoli-Arezzo per il talento della Juventus Next Gen",
+      "text": "L'Empoli continua a seguire con attenzione Nicolò Cudrig, centrocampista classe 2002 della Juventus Next Gen, considerato uno dei profili più interessanti per rinforzare la rosa in vista della nuova stagione.",
+      "link": "https://www.tuttojuve.com/calciomercato/cudrig-sfida-empoli-arezzo-talento-juventus-next-gen-788298",
+      "published": "2026-08-06T20:20:46+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Il Como annuncia l'arrivo di Yan Couto",
+      "text": "Il Como continua a essere tra i club più attivi di questa sessione estiva di mercato e mette a segno un altro innesto di rilievo.",
+      "link": "https://www.tuttojuve.com/calciomercato/como-annuncia-arrivo-yan-couto-788297",
+      "published": "2026-08-06T20:10:01+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Borsa, giornata negativa per la Juventus e Stellantis. Positiva Ferrari",
+      "text": "Chiusura prevalentemente positiva per le principali Borse europee, con Piazza Affari tra le protagoniste della giornata. L'indice Ftse Mib ha terminato gli scambi in progresso dello 0,44%, attestandosi a 53.",
+      "link": "https://www.tuttojuve.com/altre-notizie/borsaa-giornata-negativa-juventus-stellantis-positiva-ferrari-788296",
+      "published": "2026-08-06T20:00:50+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Gatti, l'opzione Napoli si allontana: i partenopei virano su un altro obiettivo",
+      "text": "Si parla ormai da settimane di un Federico Gatti in procinto di uscire dalla Juve.",
+      "link": "https://www.tuttojuve.com/calciomercato/gatti-opzione-napoli-allontana-partenopei-virano-obiettivo-788294",
+      "published": "2026-08-06T19:50:00+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Visnadi: \"Non capisco proprio l'acquisto di Kolo Muani. E ora cerca un centravanti...\"",
+      "text": "\"Il mercato della Juventus non lo sto capendo, confesso questo. Però lo potremo giudicare il 1° settembre\".",
+      "link": "https://www.tuttojuve.com/altre-notizie/visnadi-non-capisco-acquisto-kolo-muani-cerca-centravanti-788292",
+      "published": "2026-08-06T19:40:00+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Cardia: \"Ecco come va con Lucumì e Kessiè. Suzuki in prestito dal PSG? Finchè non lo vedo...\"",
+      "text": "A Radio Bianconera, il giornalista Ivan Cardia si è espresso anche sulle monovre per il portiere della Juve: \"Su Dibu martinez, sì, la Juve non sta più lavorando da un po' di tempo a questa ipotesi, quindi è una p ...",
+      "link": "https://www.tuttojuve.com/altre-notizie/cardia-ecco-lucumi-kessie-suzuki-prestito-psg-finche-vedo-788287",
+      "published": "2026-08-06T19:30:00+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Italia U20 femminile verso i Mondiali ma nessuna bianconera per il prossimo stage",
+      "text": "L'Italia Under 20 Femminile scalda i motori in vista del Mondiale in Polonia che partirà il prossimo cinque settembre.",
+      "link": "https://www.tuttojuve.com/altre-notizie/italia-u20-femminile-mondiali-bianconera-prossimo-stage-788290",
+      "published": "2026-08-06T19:20:00+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Fiorentina, è arrivato in città Mastantuono: domani le visite per l'argentino",
+      "text": "Fabio Paratici ha fatto il colpo grosso. L'ex Juve infatti ha portato alla fine alla Fiorentina Franco Mastantuono, il colpo da novanta della campagna acquisti della Viola.",
+      "link": "https://www.tuttojuve.com/altre-notizie/fiorentina-arrivato-mastantuono-domani-visite-argentino-788289",
+      "published": "2026-08-06T19:10:00+00:00"
+    },
+    {
+      "source": "tuttojuve",
+      "title": "Infantino, il Conmebol: \"Bene l'addio al progetto Ffe ma preoccupati per mancanza dialogo\"",
+      "text": "Dopo la UEFA, arriva un nuovo messaggio alla FIFA e a Gianni Infantino dal Consiglio della Conmebol, che con un comunicato \"invita a preservare l'unità della famiglia del calcio, ad agire con responsabilità istituzionale, a raf ...",
+      "link": "https://www.tuttojuve.com/altre-notizie/infantino-conmebol-bene-addio-progetto-ffe-preoccupati-mancanza-dialogo-788288",
+      "published": "2026-08-06T19:00:00+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "🇧🇷🧐 #Everton is interested in #DouglasLuiz, but he replied \"No, thank you\": he is...",
+      "text": "🇧🇷🧐 #Everton is interested in #DouglasLuiz, but he replied \"No, thank you\": he is becoming increasingly convinced that staying could be the right choice. #Spalletti is involving him a lot, even though no decision on his future has been made. He has admirers in the Premier League, but for now, the idea is to seek redemption as a bianconero and prove his worth. The coach is studying how to deploy him: he believes his qualities can make a difference in his style of football.[Giovanni Albanese - Gazzetta dello Sport via @juventusinsidernews]",
+      "link": "https://t.me/GJustjuve/70800",
+      "published": "2026-08-06T18:59:32+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "Image was fake. This is the real one ..",
+      "text": "GJustjuve Kid Alajbegovic [Matthijs Pog] https://t.me/GJustjuve/70500Image was fake. This is the real one ..",
+      "link": "https://t.me/GJustjuve/70799",
+      "published": "2026-08-06T18:51:06+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "🇨🇴🔛 \"Even today, there have been contacts between #Juventus-#Bologna for #Lucumí....",
+      "text": "🇨🇴🔛 \"Even today, there have been contacts between #Juventus-#Bologna for #Lucumí. There is still a gap, but the two clubs continue to talk and work continues in this track, trying to use the player's 'yes' card.\"[Romeo Agresti - IlBianconero via @juventusinsidernews]",
+      "link": "https://t.me/GJustjuve/70798",
+      "published": "2026-08-06T18:51:01+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "🇳🇱🆙 \"For the attack, #Spalletti is becoming increasingly convinced on #Zirkzee,...",
+      "text": "🇳🇱🆙 \"For the attack, #Spalletti is becoming increasingly convinced on #Zirkzee, #Massara's favorite. #ManchesterUnited has opened to a loan with an option to buy, without an obligation. #Juventus is accelerating because it is an economically sustainable formula. He is not the physically strong center-forward in the box who excels in the air that the coach usually likes, but he drifts across the front line and does not give opponents any reference points.\"[Nicolò Schira - YouTube via @juventusinsidernews]",
+      "link": "https://t.me/GJustjuve/70797",
+      "published": "2026-08-06T18:47:15+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "4️⃣🇦🇺🦘🚲🎶 📍 @PuebloJ",
+      "text": "Media is too big VIEW IN TELEGRAM Forwarded from PuebloJuve (PuebloJuve) Media is too big VIEW IN TELEGRAM 4️⃣🇦🇺🦘🚲🎶📍 @PuebloJ",
+      "link": "https://t.me/GJustjuve/70796",
+      "published": "2026-08-06T18:42:07+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "🧤⁉️ \"For the goal, many names have been proposed: #Trubin, #Ederson, #Pickford and...",
+      "text": "🧤⁉️ \"For the goal, many names have been proposed: #Trubin, #Ederson, #Pickford and #MilinkovicSavic. Evaluations are underway, but #Juventus's, however, remains #Suzuki. There is also #Vicario: the bianconero club already has his 'yes', he earns around €4M and #Tottenham would even let him leave on a free loan with an option to buy, but #Spalletti is not particularly convinced by this name.\"[Nicolò Schira - YouTube via @juventusinsidernews]",
+      "link": "https://t.me/GJustjuve/70795",
+      "published": "2026-08-06T17:12:52+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "🇨🇴🧐 \"#Juventus is looking for a defender and I continue to point to #Lucumí, who is...",
+      "text": "🇨🇴🧐 \"#Juventus is looking for a defender and I continue to point to #Lucumí, who is #Spalletti's first choice. There is competition from the Premier League and now the price tag is at €25M. The bianconeri are offering €17M, #NottinghamForest €20M, but he prefers the Piedmont club, with whom an agreement in principle is already in place for a five-year contract worth €2.5M + bonuses. #Bologna, however, wants €25M and is not interested in other players in exchange.\"[Nicolò Schira - YouTube via @juventusinsidernews]",
+      "link": "https://t.me/GJustjuve/70794",
+      "published": "2026-08-06T16:57:19+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "👀🔛 \"In these hours, #Massara and #Ottolini are working in Milan, together with #Carnevali...",
+      "text": "👀🔛 \"In these hours, #Massara and #Ottolini are working in Milan, together with #Carnevali and with #Chiellini as a point of reference. The fact that the management has remained operational is symptomatic with a #Juventus that is active on the mercato. From a distance, the coach confers daily with the directors. There is total harmony and he trusts them: the arrivals have given him confidence. Eyes wide open: in the silence, la Vecchia Signora is absolutely making some moves.\"[Romeo Agresti - YouTube via @juventusinsidernews]",
+      "link": "https://t.me/GJustjuve/70793",
+      "published": "2026-08-06T16:33:52+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "🧤🧐 #Juventus has decided to postpone its project to secure a goalkeeper until the summer of...",
+      "text": "🧤🧐 #Juventus has decided to postpone its project to secure a goalkeeper until the summer of 2027. Limited economic resources, the lack of a domino effect and the high costs of top players have put the plans on hold. #PSG is about to finalize the signing of #Suzuki for around €35M, but the bianconeri are hoping for a simple loan, delaying everything until next year. The #Vicario and #Atubolu tracks remain alive, but the main target continues to be the Japanese.[TuttoSport via @juventusinsidernews]",
+      "link": "https://t.me/GJustjuve/70792",
+      "published": "2026-08-06T16:09:49+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "3️⃣🇭🇰💪🦓 📍 @PuebloJ",
+      "text": "Media is too big VIEW IN TELEGRAM Forwarded from PuebloJuve (PuebloJuve) Media is too big VIEW IN TELEGRAM 3️⃣🇭🇰💪🦓📍 @PuebloJ",
+      "link": "https://t.me/GJustjuve/70791",
+      "published": "2026-08-06T15:44:51+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "😂 Pocas cosas dejaron perplejo a Thuram en el campo como lo hizo esta mascota 📍 @PuebloJ",
+      "text": "This media is not supported in your browser VIEW IN TELEGRAM Forwarded from PuebloJuve (PuebloJuve) 😂 Pocas cosas dejaron perplejo a Thuram en el campo como lo hizo esta mascota📍 @PuebloJ",
+      "link": "https://t.me/GJustjuve/70790",
+      "published": "2026-08-06T15:44:47+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "🧐❗️\"I think #Juventus must follow three main moves: 1⃣ If they manage to get the...",
+      "text": "🧐❗️\"I think #Juventus must follow three main moves:1⃣ If they manage to get the goalkeeper on loan, then good, otherwise they will go for #Vicario, who can arrive on loan with an option to buy, or look at another track;2⃣ #Lucumí is waiting, he said 'no' to other offers and ideally he goes to sleep wearing the bianconero shirt. You cannot keep him waiting forever: the deal needs to be closed or he will go elsewhere;3⃣ The third can be #Zirkzee. It is an important opportunity, he could be signed even without selling #David, possibly postponing the sale until later. It would be a risk, but it's ",
+      "link": "https://t.me/GJustjuve/70789",
+      "published": "2026-08-06T13:51:01+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "🫡 Alessandro #DelPiero en Perth para acompañar a la #Juventus en su gira [🎥 @juventusfc...",
+      "text": "This media is not supported in your browser VIEW IN TELEGRAM Forwarded from PuebloJuve (PuebloJuve) 🫡 Alessandro #DelPiero en Perth para acompañar a la #Juventus en su gira[🎥 @juventusfc ]📍 @PuebloJ",
+      "link": "https://t.me/GJustjuve/70788",
+      "published": "2026-08-06T13:32:47+00:00"
+    },
+    {
+      "source": "gjustjuve",
+      "title": "🤍🖤 Espectacular ambiente en Perth con Fabrizio Ravanelli 📍 @PuebloJ",
+      "text": "This media is not supported in your browser VIEW IN TELEGRAM Forwarded from PuebloJuve (PuebloJuve) 🤍🖤 Espectacular ambiente en Perth con Fabrizio Ravanelli 📍 @PuebloJ",
+      "link": "https://t.me/GJustjuve/70787",
+      "published": "2026-08-06T13:25:37+00:00"
     }
   ]
 }
