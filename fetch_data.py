@@ -5,13 +5,10 @@ Descarga toda la información cruda de noticias de la Juventus y la guarda
 en data/latest.json.
 
 Fuentes:
-1. Canal de Telegram agregado (vía RSSground) — mezcla de periodistas y
-   medios, ya usado en la versión anterior del proyecto.
-2. JuveFC.com — sitio de noticias en inglés dedicado a la Juventus, con
-   RSS propio y actualizaciones frecuentes.
-
-No necesitas tocar nada de este archivo para que funcione. Si algún día
-querés sumar otra fuente, agregala a RSS_SOURCES.
+1. TuttoJuve.com — sitio periodístico dedicado a la Juventus (TMW Network)
+2. JuveFC.com — sitio de noticias en inglés
+3. GJustjuve — canal de Telegram con noticias y citas de fuentes de referencia
+   (vía rss-bridge, fechas reales e inmutables de Telegram)
 """
 
 import html
@@ -26,30 +23,25 @@ import feedparser
 # CONFIGURACIÓN
 # --------------------------------------------------------------------------
 
-MAX_NEWS_AGE_HOURS = 18
+# Ventana de frescura por fuente. JuveFC tiene una ventana más corta porque
+# hay sospecha de que a veces refresca fechas de artículos viejos.
+MAX_NEWS_AGE_HOURS = {
+    "tuttojuve": 24,
+    "gjustjuve": 24,
+}
 MAX_ITEMS_PER_SOURCE = 25
 
-# Periodistas de referencia (Tier 1) que el prompt de la IA va a priorizar
-# si aparecen mencionados en el texto de una noticia.
-TIER_1_JOURNALISTS = [
-    "Fabrizio Romano",
-    "Gianluca Di Marzio",
-    "Romeo Agresti",
-]
-TIER_2_JOURNALISTS = [
-    "Matteo Moretto",
-    "Giovanni Albanese",
-]
+TIER_1_JOURNALISTS = ["Fabrizio Romano", "Gianluca Di Marzio", "Romeo Agresti"]
+TIER_2_JOURNALISTS = ["Matteo Moretto", "Giovanni Albanese"]
 
 RSS_SOURCES = {
-    "telegram_juve": (
-        "https://reader.rssground.com/public.php?op=rss&id=4086"
-        "&is_cat=1&key=4q355x6a4810ed7ed88"
+    "tuttojuve": "https://www.tuttojuve.com/rss",
+    "gjustjuve": (
+        "https://rss-bridge.org/bridge01/?action=display"
+        "&bridge=TelegramBridge&username=GJustjuve&format=Atom"
     ),
-    "juvefc": "https://www.juvefc.com/feed",
 }
 
-# Frases que indican ruido (contenido fijado, promocional, videos sin texto)
 NOISE_PATTERNS = [
     "pinned",
     "youtu.be",
@@ -80,7 +72,8 @@ def parse_entry_date(entry):
 
 def fetch_source(source_name: str, url: str) -> list:
     print(f"Descargando feed: {source_name}...")
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_NEWS_AGE_HOURS)
+    max_age = MAX_NEWS_AGE_HOURS.get(source_name, 24)
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age)
     try:
         parsed = feedparser.parse(url)
     except Exception as exc:  # noqa: BLE001
