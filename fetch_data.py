@@ -20,7 +20,7 @@ MAX_ITEMS = 200
 TIER_1_JOURNALISTS = ["Romeo Agresti", "Fabrizio Romano", "Gianluca Di Marzio"]
 TIER_2_JOURNALISTS = [
     "Nicolò Schira", "Giovanni Albanese", "Alfredo Pedullà",
-    "Ciro Di Natale", "@_Morik92_",
+    "Mirko Di Natale", "@_Morik92_", "Matteo Moretto",
 ]
 NEWSPAPERS = ["Sky Sport", "Tuttosport", "Gazzetta dello Sport"]
 
