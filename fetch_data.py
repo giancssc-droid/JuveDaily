@@ -1,14 +1,9 @@
 """
 fetch_data.py
 --------------
-Descarga toda la información cruda de noticias de la Juventus y la guarda
-en data/latest.json.
-
-Fuentes:
-1. TuttoJuve.com — sitio periodístico dedicado a la Juventus (TMW Network)
-2. JuveFC.com — sitio de noticias en inglés
-3. GJustjuve — canal de Telegram con noticias y citas de fuentes de referencia
-   (vía rss-bridge, fechas reales e inmutables de Telegram)
+Descarga los mensajes recientes del canal de Telegram GJustjuve (vía
+rss-bridge) y los guarda en data/latest.json, listos para que Gemini los
+clasifique por Tier de periodista/diario.
 """
 
 import html
@@ -19,36 +14,22 @@ from datetime import datetime, timedelta, timezone
 
 import feedparser
 
-# --------------------------------------------------------------------------
-# CONFIGURACIÓN
-# --------------------------------------------------------------------------
+MAX_NEWS_AGE_HOURS = 48
+MAX_ITEMS = 200
 
-# Ventana de frescura por fuente. JuveFC tiene una ventana más corta porque
-# hay sospecha de que a veces refresca fechas de artículos viejos.
-MAX_NEWS_AGE_HOURS = {
-    "tuttojuve": 24,
-    "gjustjuve": 24,
-}
-MAX_ITEMS_PER_SOURCE = 25
-
-TIER_1_JOURNALISTS = ["Fabrizio Romano", "Gianluca Di Marzio", "Romeo Agresti"]
-TIER_2_JOURNALISTS = ["Matteo Moretto", "Giovanni Albanese"]
-
-RSS_SOURCES = {
-    "tuttojuve": "https://www.tuttojuve.com/rss",
-    "gjustjuve": (
-        "https://rss-bridge.org/bridge01/?action=display"
-        "&bridge=TelegramBridge&username=GJustjuve&format=Atom"
-    ),
-}
-
-NOISE_PATTERNS = [
-    "pinned",
-    "youtu.be",
-    "youtube.com",
-    "video del anuncio",
-    "gjustjuve pinned",
+TIER_1_JOURNALISTS = ["Romeo Agresti", "Fabrizio Romano", "Gianluca Di Marzio"]
+TIER_2_JOURNALISTS = [
+    "Nicolò Schira", "Giovanni Albanese", "Alfredo Pedullà",
+    "Ciro Di Natale", "@_Morik92_",
 ]
+NEWSPAPERS = ["Sky Sport", "Tuttosport", "Gazzetta dello Sport"]
+
+GJUSTJUVE_URL = (
+    "https://rss-bridge.org/bridge01/?action=display"
+    "&bridge=TelegramBridge&username=GJustjuve&format=Atom"
+)
+
+NOISE_PATTERNS = ["pinned", "youtu.be", "youtube.com"]
 
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "data", "latest.json")
 
@@ -70,14 +51,13 @@ def parse_entry_date(entry):
     return None
 
 
-def fetch_source(source_name: str, url: str) -> list:
-    print(f"Descargando feed: {source_name}...")
-    max_age = MAX_NEWS_AGE_HOURS.get(source_name, 24)
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age)
+def fetch_gjustjuve() -> list:
+    print("Descargando feed: gjustjuve...")
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_NEWS_AGE_HOURS)
     try:
-        parsed = feedparser.parse(url)
+        parsed = feedparser.parse(GJUSTJUVE_URL)
     except Exception as exc:  # noqa: BLE001
-        print(f"[AVISO] No se pudo leer el feed {source_name}: {exc}")
+        print(f"[AVISO] No se pudo leer el feed: {exc}")
         return []
 
     items = []
@@ -98,15 +78,13 @@ def fetch_source(source_name: str, url: str) -> list:
             continue
 
         items.append({
-            "source": source_name,
-            "title": title[:200],
-            "text": text[:600],
+            "text": text[:700],
             "link": link,
             "published": entry_date.isoformat() if entry_date else None,
         })
 
     items.sort(key=lambda i: i["published"] or "", reverse=True)
-    return items[:MAX_ITEMS_PER_SOURCE]
+    return items[:MAX_ITEMS]
 
 
 def dedupe(items: list) -> list:
@@ -125,12 +103,7 @@ def main():
     now_utc = datetime.now(timezone.utc)
     now_venezuela = now_utc - timedelta(hours=4)
 
-    all_items = []
-    for name, url in RSS_SOURCES.items():
-        all_items.extend(fetch_source(name, url))
-
-    all_items = dedupe(all_items)
-    all_items.sort(key=lambda i: i["published"] or "", reverse=True)
+    items = dedupe(fetch_gjustjuve())
 
     combined = {
         "generated_at_utc": now_utc.isoformat(),
@@ -138,14 +111,15 @@ def main():
         "today_venezuela_readable": now_venezuela.strftime("%A %d de %B de %Y"),
         "tier_1_journalists": TIER_1_JOURNALISTS,
         "tier_2_journalists": TIER_2_JOURNALISTS,
-        "news": all_items,
+        "newspapers": NEWSPAPERS,
+        "news": items,
     }
 
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(combined, f, ensure_ascii=False, indent=2)
 
-    print(f"\nListo. {len(all_items)} noticias guardadas en {OUTPUT_PATH}")
+    print(f"\nListo. {len(items)} mensajes guardados en {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":
