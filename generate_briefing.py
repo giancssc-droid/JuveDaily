@@ -36,46 +36,41 @@ GEMINI_URL = (
     f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 )
 
-SECTION_HEADERS = ("📅", "⚪", "⚫", "💰", "🩹", "📅", "🎯", "📰")
+SECTION_HEADERS = ("📅", "⭐", "🥈", "📰", "🎯")
 
 SYSTEM_PROMPT = """\
 Eres un asistente que redacta un resumen diario de noticias de la Juventus \
-en español, para un hincha que quiere estar al día en 30 segundos, sin \
-perder tiempo revisando múltiples fuentes.
+en español, clasificando cada noticia según quién la reportó.
 
 Recibirás datos crudos en JSON:
-- news: lista de noticias, cada una con "source" (de dónde viene), "title", \
-  "text" (resumen o contenido), "link" y "published"
-- tier_1_journalists: nombres de periodistas de máxima fiabilidad
-- tier_2_journalists: nombres de periodistas de fiabilidad media
+- news: lista de mensajes del canal de Telegram GJustjuve, cada uno con \
+  "text" (el contenido) y "published"
+- tier_1_journalists: nombres de periodistas Tier 1 (máxima fiabilidad)
+- tier_2_journalists: nombres de periodistas Tier 2
+- newspapers: nombres de diarios/medios a buscar
 - today_venezuela: la fecha de HOY en formato YYYY-MM-DD, en hora de Venezuela
 
-Instrucciones de priorización:
-1. Si el texto de una noticia menciona a alguno de los tier_1_journalists, \
-   dale prioridad alta — son las fuentes más fiables en fichajes y mercado.
-2. Si menciona a un tier_2_journalist, dale prioridad media.
-3. Si el texto suena a rumor sin atribución clara (sin nombrar periodista \
-   ni fuente), o son especulaciones vagas, inclúyelo solo si no hay \
-   suficiente contenido de mayor fiabilidad, y márcalo como "🗣️ Rumor" al \
-   inicio del bullet.
-4. Ignora contenido duplicado o casi idéntico entre fuentes: quédate con \
-   la versión más completa o más reciente.
-5. Agrupa el contenido en las categorías que correspondan según lo que \
-   encuentres (usa solo las que tengan contenido real):
-   - 📰 Noticias del club
-   - 💰 Mercado de fichajes
-   - 🩹 Lesiones y bajas
-   - 📅 Calendario y resultados
-6. Si una categoría no tiene contenido relevante, NO la incluyas en \
-   absoluto — ni el encabezado.
-7. Para CADA noticia que incluyas, agrega su link en una línea nueva justo \
-   debajo, con este formato exacto: "  🔗 [link]" (dos espacios, el \
-   emoji, y el link tal cual viene en el campo "link" del JSON).
-8. Termina con "🎯 Prioridad de hoy": 2 a 4 bullets con lo más importante \
-   que el hincha debería saber hoy, en orden de importancia. Esta sección \
-   NO lleva links.
-9. Sé conciso. Cada bullet debe caber idealmente en una o dos líneas cortas.
-10. Deja una línea en blanco entre cada bullet dentro de una misma sección.
+Instrucciones de clasificación:
+1. Para cada mensaje, busca en su texto si menciona a alguno de los \
+   tier_1_journalists. Si es así, clasifícalo en Tier 1, sin importar si \
+   también menciona a alguien de tier_2 o algún diario.
+2. Si no menciona a nadie de tier_1 pero sí a alguien de tier_2_journalists, \
+   clasifícalo en Tier 2.
+3. Si no menciona a ningún periodista de las dos listas pero sí a alguno de \
+   los newspapers, clasifícalo en Periódicos.
+4. Si un mensaje NO menciona a ninguno de estos nombres ni diarios, \
+   DESCÁRTALO por completo. No lo incluyas en ninguna categoría.
+5. Ignora contenido duplicado o casi idéntico dentro de una misma categoría: \
+   quédate con la versión más completa o más reciente.
+6. En cada categoría, ordena por fecha (más reciente primero) y quédate \
+   como máximo con los 10 más recientes.
+7. Si una categoría queda sin ningún mensaje después de filtrar, NO la \
+   incluyas en absoluto — ni el encabezado.
+8. Traduce y redacta cada bullet en español claro y conciso, en una o dos \
+   líneas. NO incluyas links ni URLs en el texto.
+9. Deja una línea en blanco entre cada bullet dentro de una misma sección.
+10. Termina con "🎯 Prioridad de hoy": 2 a 4 bullets con lo más importante \
+    del conjunto completo (de cualquier tier), en orden de importancia.
 11. Nada de relleno ni explicaciones de tu proceso. NO uses markdown \
     (nada de asteriscos **, guiones bajos _, ni almohadillas #). Generá \
     texto plano con este formato exacto, incluyendo únicamente las \
@@ -83,24 +78,14 @@ Instrucciones de priorización:
 
 📅 Juventus - [fecha legible]
 
-📰 Noticias del club
+⭐ Tier 1
 - [texto]
-  🔗 [link]
 
-💰 Mercado de fichajes
+🥈 Tier 2
 - [texto]
-  🔗 [link]
 
-🩹 Lesiones y bajas
+📰 Periódicos
 - [texto]
-  🔗 [link]
-
-📅 Calendario y resultados
-- [texto]
-  🔗 [link]
-
-🎯 Prioridad de hoy
-- ...
 
 Responde ÚNICAMENTE con el resumen en ese formato, sin texto antes ni después.
 """
@@ -228,14 +213,8 @@ def format_for_telegram(raw_text: str) -> str:
     for line in lines:
         stripped = line.strip()
         is_header = stripped.startswith(SECTION_HEADERS) and not stripped.startswith("•")
-        is_link_line = stripped.startswith("🔗")
-
         if is_header:
             formatted_lines.append(f"<b>{escape_html(line)}</b>")
-        elif is_link_line:
-            url = stripped.replace("🔗", "", 1).strip()
-            indent = line[: len(line) - len(line.lstrip())]
-            formatted_lines.append(f'{indent}🔗 <a href="{escape_html(url)}">Leer noticia</a>')
         else:
             formatted_lines.append(escape_html(line))
     return "\n".join(formatted_lines)
