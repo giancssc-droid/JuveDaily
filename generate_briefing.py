@@ -211,16 +211,25 @@ def escape_html(text: str) -> str:
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
+NAME_PATTERN = re.compile(r"«([^»]+)»")
+
+
 def format_for_telegram(raw_text: str) -> str:
     lines = raw_text.split("\n")
     formatted_lines = []
     for line in lines:
         stripped = line.strip()
         is_header = stripped.startswith(SECTION_HEADERS) and not stripped.startswith("•")
+
         if is_header:
             formatted_lines.append(f"<b>{escape_html(line)}</b>")
-        else:
-            formatted_lines.append(escape_html(line))
+            continue
+
+        escaped = escape_html(line)
+        # Resalta el nombre del periodista/diario en negrita + subrayado
+        highlighted = NAME_PATTERN.sub(r"<b><u>\1</u></b>", escaped)
+        formatted_lines.append(highlighted)
+
     return "\n".join(formatted_lines)
 
 
