@@ -36,7 +36,7 @@ GEMINI_URL = (
     f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 )
 
-SECTION_HEADERS = ("📅", "⭐", "🥈", "📰", "🎯")
+SECTION_HEADERS = ("📅", "⭐", "🥈", "📰")
 
 SYSTEM_PROMPT = """\
 Eres un asistente que redacta un resumen diario de noticias de la Juventus \
@@ -66,26 +66,30 @@ Instrucciones de clasificación:
    como máximo con los 10 más recientes.
 7. Si una categoría queda sin ningún mensaje después de filtrar, NO la \
    incluyas en absoluto — ni el encabezado.
-8. Traduce y redacta cada bullet en español claro y conciso, en una o dos \
-   líneas. NO incluyas links ni URLs en el texto.
-9. Deja una línea en blanco entre cada bullet dentro de una misma sección.
-10. Termina con "🎯 Prioridad de hoy": 2 a 4 bullets con lo más importante \
-    del conjunto completo (de cualquier tier), en orden de importancia.
+8. Cada bullet debe empezar con el/los nombre(s) del periodista o diario \
+   que reportó la noticia, envuelto entre comillas angulares dobles «así», \
+   seguido de dos puntos y el texto de la noticia en español, claro y \
+   conciso, en una o dos líneas. Si un mismo mensaje cita a más de un \
+   periodista, poné todos los nombres dentro del mismo «», separados por \
+   coma: «Nombre 1, Nombre 2»: texto de la noticia.
+9. NO incluyas links ni URLs en el texto.
+10. Deja una línea en blanco entre cada bullet dentro de una misma sección.
 11. Nada de relleno ni explicaciones de tu proceso. NO uses markdown \
-    (nada de asteriscos **, guiones bajos _, ni almohadillas #). Generá \
+    (nada de asteriscos **, guiones bajos _, ni almohadillas #) — el único \
+    formato especial permitido es el «» alrededor del nombre. Generá \
     texto plano con este formato exacto, incluyendo únicamente las \
     secciones que tengan contenido:
 
 📅 Juventus - [fecha legible]
 
 ⭐ Tier 1
-- [texto]
+- «Nombre»: [texto]
 
 🥈 Tier 2
-- [texto]
+- «Nombre»: [texto]
 
 📰 Periódicos
-- [texto]
+- «Nombre del diario»: [texto]
 
 Responde ÚNICAMENTE con el resumen en ese formato, sin texto antes ni después.
 """
