@@ -26,6 +26,7 @@ import requests
 DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "latest.json")
 MD_OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "briefing.md")
 HTML_OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "docs", "index.html")
+NAME_PATTERN = re.compile(r"«([^»]+)»")
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -210,8 +211,6 @@ def save_html(briefing_text: str, today_readable: str):
 def escape_html(text: str) -> str:
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
-
-NAME_PATTERN = re.compile(r"«([^»]+)»")
 
 
 def format_for_telegram(raw_text: str) -> str:
