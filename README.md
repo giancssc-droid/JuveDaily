@@ -1,113 +1,56 @@
-# JuveDaily
+# ⚫⚪ JuveDaily
 
-Resumen diario de noticias, mercado y actualidad de la Juventus.
+Un sistema automatizado que arma un resumen diario de noticias de la Juventus, clasificado por la fiabilidad de quién reportó cada dato, y lo entrega directo a Telegram — sin tener que revisar decenas de mensajes sueltos de un canal para saber qué es rumor y qué es información seria.
 
-## Descripción
+## Qué hace
 
-JuveDaily es un proyecto personal diseñado para centralizar las noticias más importantes relacionadas con la Juventus en un único resumen diario.
+Todos los días a las 8:00 PM (hora de Venezuela) — cuando ya se asienta el día noticioso — el sistema:
 
-El objetivo es evitar revisar múltiples sitios web, periodistas y redes sociales para mantenerse informado sobre fichajes, renovaciones, lesiones, calendario, resultados y actualidad del club.
+1. **Descarga los mensajes recientes** del canal de Telegram [@GJustjuve](https://t.me/GJustjuve), que agrega noticias y filtraciones de mercado sobre la Juventus.
+2. **Le pide a Gemini** (la API gratuita de Google) que revise cada mensaje y lo clasifique según quién lo reportó, descartando todo lo que no tenga una fuente identificable.
+3. **Entrega el resultado** por Telegram, con el nombre de cada periodista o diario resaltado en negrita y subrayado para distinguirlo del resto del texto.
 
-## Objetivos
+Todo corre solo, sin intervención manual, usando GitHub Actions como programador de tareas.
 
-* Centralizar la información de la Juventus en un solo lugar.
-* Priorizar fuentes confiables y periodistas de referencia.
-* Reducir rumores de baja credibilidad.
-* Facilitar la lectura rápida de las noticias más relevantes.
-* Generar resúmenes diarios consistentes y fáciles de consumir.
+## Cómo clasifica las noticias
 
-## Fuentes
+En vez de organizar por tema (fichajes, lesiones, etc.), el resumen agrupa cada noticia según la fiabilidad de quien la reportó:
 
-### Fuentes Oficiales
+- **⭐ Tier 1** — Romeo Agresti, Fabrizio Romano, Gianluca Di Marzio
+- **🥈 Tier 2** — Nicolò Schira, Giovanni Albanese, Alfredo Pedullà, Ciro Di Natale, Matteo Moretto, @_Morik92_
+- **📰 Periódicos** — Sky Sport, Tuttosport, Gazzetta dello Sport
 
-* Juventus FC
-* Serie A
-* UEFA
+Si un mensaje no menciona a ninguno de estos nombres, se descarta directamente — no entra al resumen. Cada categoría muestra como máximo los 10 mensajes más recientes.
 
-### Fuentes Prioritarias
+## Cómo se ve
 
-### Tier 1
-- Fabrizio Romano
-- Gianluca Di Marzio
-- Romeo Agresti
+> **📅 Juventus - 06 de agosto de 2026**
+>
+> **⭐ Tier 1**
+> • **_Romeo Agresti_**: Giuntoli y Manna trabajan activamente en Milán en el mercado de fichajes.
+>
+> **🥈 Tier 2**
+> • **_Nicolò Schira_**: La Juventus acelera por Zirkzee, con el Manchester United abierto a un préstamo con opción de compra.
+>
+> **📰 Periódicos**
+> • **_Gazzetta dello Sport_**: La búsqueda de un portero top se pospone hasta 2027 por limitaciones económicas.
 
-### Tier 2
-- Matteo Moretto
-- Giovanni Albanese
+## Arquitectura
 
-### Medios Especializados
+| Componente | Rol |
+|---|---|
+| `fetch_data.py` | Descarga los mensajes recientes de GJustjuve |
+| `generate_briefing.py` | Le pasa los mensajes a Gemini, que clasifica y redacta, y lo envía por Telegram |
+| GitHub Actions | Ejecuta todo el flujo automáticamente cada noche |
+| Telegram Bot API | Entrega el resumen con formato enriquecido (HTML) |
 
-* Tuttosport
-* Goal Italia
-* Sky Sport Italia
-* La Gazzetta dello Sport
+## Stack
 
-Las fuentes pueden ampliarse o ajustarse según su fiabilidad y relevancia.
+- **Python** — descarga, filtrado y distribución
+- **Google Gemini API** (`gemini-2.5-flash`) — clasificación por fuente y redacción del resumen
+- **Telegram Bot API** — entrega diaria con formato HTML
+- **GitHub Actions** — automatización con cron diario (8:00 PM Venezuela)
 
-## Contenido del Resumen
+## Por qué existe
 
-El resumen diario puede incluir:
-
-* Noticias del club.
-* Mercado de fichajes.
-* Renovaciones y contratos.
-* Lesiones y recuperaciones.
-* Convocatorias.
-* Resultados.
-* Calendario de partidos.
-* Declaraciones de jugadores y cuerpo técnico.
-* Rumores destacados.
-* Información oficial de la Juventus.
-
-## Metodología
-
-Las noticias se organizan priorizando:
-
-1. Fuentes oficiales.
-2. Periodistas de máxima fiabilidad.
-3. Medios especializados.
-4. Rumores y especulación.
-
-El objetivo es ofrecer información clara y contextualizada, minimizando el ruido informativo.
-
-## Automatización
-
-El proyecto utiliza herramientas de agregación y clasificación para recopilar información de múltiples fuentes y facilitar la creación del resumen diario.
-
-## Tecnologías Utilizadas
-
-* RSS
-* GitHub
-* GitHub Actions
-* Herramientas de automatización
-* Flujos de trabajo asistidos por IA
-
-## Roadmap
-
-### Versión 1
-
-* Agregación de noticias.
-* Clasificación de fuentes.
-* Resumen diario.
-
-### Versión 2
-
-* Sistema de prioridad por periodista.
-* Seguimiento de mercado de fichajes.
-* Historial de noticias.
-
-### Versión 3
-
-* Resúmenes automáticos mejorados.
-* Archivo histórico.
-* Seguimiento de temporadas.
-
-## Propósito
-
-JuveDaily funciona como un centro personal de información sobre la Juventus, diseñado para obtener cada día las noticias más relevantes sin necesidad de consultar múltiples fuentes manualmente.
-
-## Estado del Proyecto
-
-🟢 Activo
-
-Proyecto mantenido para uso personal.
+Seguir un canal de Telegram con decenas de mensajes al día sobre fichajes y
