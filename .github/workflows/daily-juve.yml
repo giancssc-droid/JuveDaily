@@ -2,7 +2,7 @@ name: Resumen diario Juventus
 
 on:
   schedule:
-    - cron: "0 12 * * *"  # 8:00 AM Venezuela (UTC-4)
+    - cron: "0 0 * * *"  # 8:00 PM Venezuela (UTC-4)
   workflow_dispatch:
 
 permissions:
