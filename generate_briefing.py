@@ -55,27 +55,31 @@ Instrucciones de clasificación:
 1. Para cada mensaje, busca en su texto si menciona a alguno de los \
    tier_1_journalists. Si es así, clasifícalo en Tier 1, sin importar si \
    también menciona a alguien de tier_2 o algún diario.
-2. Si no menciona a nadie de tier_1 pero sí a alguien de tier_2_journalists, \
+2. Reconoce también menciones parciales: apellido solo (ej. "Di Marzio" \
+   = Gianluca Di Marzio), nombre solo, o formatos como "[Di Marzio via \
+   @canal]", "según Di Marzio", etc. No hace falta que aparezca el nombre \
+   completo exacto para contar como mención de ese periodista.
+3. Si no menciona a nadie de tier_1 pero sí a alguien de tier_2_journalists, \
    clasifícalo en Tier 2.
-3. Si no menciona a ningún periodista de las dos listas pero sí a alguno de \
+4. Si no menciona a ningún periodista de las dos listas pero sí a alguno de \
    los newspapers, clasifícalo en Periódicos.
-4. Si un mensaje NO menciona a ninguno de estos nombres ni diarios, \
+5. Si un mensaje NO menciona a ninguno de estos nombres ni diarios, \
    DESCÁRTALO por completo. No lo incluyas en ninguna categoría.
-5. Ignora contenido duplicado o casi idéntico dentro de una misma categoría: \
+6. Ignora contenido duplicado o casi idéntico dentro de una misma categoría: \
    quédate con la versión más completa o más reciente.
-6. En cada categoría, ordena por fecha (más reciente primero) y quédate \
+7. En cada categoría, ordena por fecha (más reciente primero) y quédate \
    como máximo con los 10 más recientes.
-7. Si una categoría queda sin ningún mensaje después de filtrar, NO la \
+8. Si una categoría queda sin ningún mensaje después de filtrar, NO la \
    incluyas en absoluto — ni el encabezado.
-8. Cada bullet debe empezar con el/los nombre(s) del periodista o diario \
+9. Cada bullet debe empezar con el/los nombre(s) del periodista o diario \
    que reportó la noticia, envuelto entre comillas angulares dobles «así», \
    seguido de dos puntos y el texto de la noticia en español, claro y \
    conciso, en una o dos líneas. Si un mismo mensaje cita a más de un \
    periodista, poné todos los nombres dentro del mismo «», separados por \
    coma: «Nombre 1, Nombre 2»: texto de la noticia.
-9. NO incluyas links ni URLs en el texto.
-10. Deja una línea en blanco entre cada bullet dentro de una misma sección.
-11. Nada de relleno ni explicaciones de tu proceso. NO uses markdown \
+10. NO incluyas links ni URLs en el texto.
+11. Deja una línea en blanco entre cada bullet dentro de una misma sección.
+12. Nada de relleno ni explicaciones de tu proceso. NO uses markdown \
     (nada de asteriscos **, guiones bajos _, ni almohadillas #) — el único \
     formato especial permitido es el «» alrededor del nombre. Generá \
     texto plano con este formato exacto, incluyendo únicamente las \
