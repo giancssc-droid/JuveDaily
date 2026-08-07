@@ -22,7 +22,7 @@ TIER_2_JOURNALISTS = [
     "Nicolò Schira", "Giovanni Albanese", "Alfredo Pedullà",
     "Mirko Di Natale", "@_Morik92_", "Matteo Moretto",
 ]
-NEWSPAPERS = ["Sky Sport", "Tuttosport", "Gazzetta dello Sport"]
+NEWSPAPERS = ["Sky Sport", "Tuttosport", "Gazzetta dello Sport", "@ilbianconerocom"]
 
 GJUSTJUVE_URL = (
     "https://rss-bridge.org/bridge01/?action=display"
