@@ -57,7 +57,7 @@ Instrucciones de clasificación:
    también menciona a alguien de tier_2 o algún diario.
 2. Reconoce también menciones parciales: apellido solo (ej. "Di Marzio" \
    = Gianluca Di Marzio), nombre solo, o formatos como "[Di Marzio via \
-   @canal]", "según Di Marzio", etc. No hace falta que aparezca el nombre \
+   @canal]", "según Di Marzio", "@DiMarzio",  etc. No hace falta que aparezca el nombre \
    completo exacto para contar como mención de ese periodista.
 3. Si no menciona a nadie de tier_1 pero sí a alguien de tier_2_journalists, \
    clasifícalo en Tier 2.
