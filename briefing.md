@@ -1,20 +1,15 @@
-📅 Juventus - 06 de agosto de 2026
+📅 Juventus - 07 de August de 2026
 
 ⭐ Tier 1
-- «Romeo Agresti»: Hoy ha habido contactos entre Juventus y Bologna por Lucumí; aún hay una brecha, pero los clubes siguen conversando.
-- «Romeo Agresti»: La dirección de la Juventus sigue activa en el mercado, con Massara y Ottolini trabajando en Milán, y el entrenador en constante comunicación.
+- «Romeo Agresti»: La Juventus no está muy convencida con Atubolu como opción para el arco, no es una pista que entusiasme.
+- «Romeo Agresti»: Alajbegovic será titular mañana, pero no está tan seguro sobre Kolo Muani.
+- «Romeo Agresti»: Se espera una Juventus activa en el mercado de fichajes; cuando se mueven tan discretamente en varias pistas, algo siempre surge.
 
 🥈 Tier 2
-- «Alfredo Pedullà»: Mateo Pellegrino sigue esperando a la Juventus, que ahora también está enfocada en Zirkzee.
-- «Alfredo Pedullà»: La Juventus y el Bologna mantienen diálogos por Lucumí; el club emiliano pide 20 millones más bonos, mientras la Juve ofrece una cifra menor.
-- «Alfredo Pedullà»: Hay rumores iniciales sobre Koopmeiners y un intento exploratorio de clubes ingleses como el Newcastle; la Juventus lo considera transferible.
-- «Matteo Moretto»: El Atlético de Madrid busca vender a Alexander Sørloth por unos 40 millones; si se va, irían por Dušan Vlahović.
-- «Giovanni Albanese»: El Everton está interesado en Douglas Luiz, pero él prefiere quedarse en la Juventus para buscar su redención.
-- «Nicolò Schira»: Spalletti está cada vez más convencido con Zirkzee, el favorito de Massara; el Manchester United ha abierto la puerta a un préstamo con opción de compra.
-- «Nicolò Schira»: Para la portería, la Juventus evalúa nombres como Trubin, Ederson, Pickford y Milinkovic-Savic, pero su principal objetivo sigue siendo Suzuki.
-- «Nicolò Schira»: La Juventus busca un defensor y Lucumí es la primera opción de Spalletti; hay una diferencia de precio con el Bologna, que pide 25 millones.
-- «Alfredo Pedullà»: La Juventus debe cerrar tres movimientos principales: un portero, Lucumí (quien espera por ellos) y Zirkzee.
+- «Giovanni Albanese»: Milik está convenciendo a Spalletti durante la pretemporada, su futuro es importante para el mercado ya que ni Kolo Muani ni Zirkzee cumplen los requisitos del técnico.
+- «Alfredo Pedullà»: Se necesita paciencia con Zirkzee y una fórmula sin obligación de compra inmediata, la Juventus cuenta con el deseo del jugador.
+- «Alfredo Pedullà»: Lucumí ha dicho 'no' a todos esperando a la Juventus, su prioridad; la brecha de 3M€ con el Bologna podría cerrarse.
+- «Giovanni Albanese»: Di Gregorio está prácticamente en el mercado de salida, la Juventus ha decidido fichar a otro portero y él evalúa opciones en clubes ingleses.
 
 📰 Periódicos
-- «TuttoJuve»: El Napoli ha preguntado por Teun Koopmeiners, quien podría salir si llegan ofertas permanentes; Manchester United y Aston Villa también lo siguen.
-- «TuttoSport»: La Juventus ha decidido posponer su proyecto de portero hasta el verano de 2027 debido a recursos limitados y altos costos; Suzuki sigue siendo el objetivo principal.
+- «Gazzetta dello Sport»: La Juventus contacta al entorno de Trubin, con el Benfica pidiendo 50M€, mientras que la Juve tiene un presupuesto máximo de 40M€ para el portero.
