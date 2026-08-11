@@ -1,20 +1,18 @@
-📅 Juventus - 09 de August de 2026
+📅 Juventus - Monday 10 de August de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano»: El PSG está cerca de cerrar un acuerdo por Zion Suzuki con el Parma por un paquete de 35 millones de euros, con detalles aún por aclarar sobre si Suzuki será cedido a la Juventus o se quedará.
+- «Fabrizio Romano»: La Juventus decidirá pronto sobre el préstamo de Zion Suzuki del PSG, una vez que el club francés cierre el trato con el Parma por 35 millones de euros.
 
 🥈 Tier 2
-- «Alfredo Pedullà»: Hay un acuerdo de principio entre Lucumí y la Juventus; el jugador ha dicho 'no' a todos y 'sí' a los bianconeri, y el acuerdo salarial fue fácil de encontrar.
-- «Nicolò Schira»: El Monza ha preguntado por Daniele Rugani, quien no entra en los planes de Luciano Spalletti y podría dejar la Juve este verano.
-- «Mirko Di Natale»: Nico González regresará a Turín el miércoles 12 de agosto, y el jugador sigue siendo el centro de las discusiones del mercado.
-- «Alfredo Pedullà»: La Juventus ha seguido a Trubin, y la decisión final dependerá de la elección de Suzuki sobre el PSG; Vicario sigue en segundo plano.
-- «Mirko Di Natale»: El Bologna ha pedido a Juan Cabal a la Juventus, y ya no es solo una idea, sino que el nombre del defensor se ha discutido en las conversaciones por Jhon Lucumí.
+- «Nicolò Schira»: La cláusula de rescisión de Gleison Bremer (54 millones de euros) ha expirado y el central está listo para quedarse en la Juventus.
+- «Nicolò Schira»: Zion Suzuki al PSG desde el Parma está en la etapa final por 36 millones de euros (bonificaciones incluidas), con un contrato hasta 2031.
+- «Giovanni Albanese»: Joshua Zirkzee se acerca a la Juventus a medida que la reintegración de Marcus Rashford acelera su salida.
+- «Nicolò Schira»: La Juventus está trabajando para encontrar una solución para la venta de Arek Milik, ya que el delantero polaco no está en los planes de Luciano Spalletti.
+- «Alfredo Pedullà»: Ha habido contactos con el Benfica por Trubin, pero la solicitud de 40 millones de euros es demasiado alta para la Juventus.
+- «Nicolò Schira»: Se esperan nuevos contactos entre mañana y el jueves con el Bologna por Lucumí; la Juventus podría ofrecer entre 18 y 20 millones de euros.
 
 📰 Periódicos
-- «Tuttosport»: La Juventus está a 13 días del inicio de la temporada, Lucumí llegará, pero aún faltan el portero y el delantero centro.
-- «Corriere dello Sport»: El futuro de Zirkzee depende de la intriga por David, ya que el canadiense gusta en la Premier League y su venta podría desbloquear a Joshua.
-- «Gazzetta dello Sport»: La Juventus está presionando por Lucumí y el Bologna ha pedido a Koopmeiners en préstamo, lo que podría ser clave para desbloquear el acuerdo por el defensor colombiano.
-- «Gazzetta dello Sport»: En la Continassa reiteran que la Juventus no es el Toulouse, por lo que el posible préstamo de Suzuki del PSG no puede ser gratuito y debe incluir un bono de desarrollo.
-- «Gazzetta dello Sport»: Marsella y Valencia han puesto sus ojos en Di Gregorio.
-- «Gazzetta dello Sport»: El Aston Villa ha realizado consultas exploratorias concretas por David y está evaluando seriamente la opción de ficharlo mediante un préstamo; si el canadiense se va, la Juventus ya tiene identificado a Zirkzee como reemplazo.
-- «Gazzetta dello Sport»: La Lazio ha reanudado la evaluación de la posibilidad de fichar a Miretti, considerado por Gattuso un jugador extremadamente versátil, y trabajan en una fórmula de préstamo con opción de compra.
+- «Corriere dello Sport»: Dusan Vlahovic comenzará una nueva etapa en Turquía, con un acuerdo con el Besiktas por un contrato de tres años a 8 millones de euros más bonificaciones anuales.
+- «Tuttosport»: Randal Kolo Muani admite que la temporada difícil en el Tottenham fue por su deseo de regresar a la Juventus, un club especial por el que está listo para todo.
+- «Sky Sport»: Posible alineación de la Juventus: Perin; Celik, Kelly, Kalulu, Cambiaso; Locatelli, Douglas Luiz; Conceicao, McKennie, Yildiz; David.
+- «Sky Sport»: Zion Suzuki sigue siendo un objetivo para la Juventus, pero hasta ahora no ha habido contacto con el PSG para el préstamo ni con el portero.
