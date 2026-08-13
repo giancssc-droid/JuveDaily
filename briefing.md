@@ -1,20 +1,21 @@
-📅 Juventus - Tuesday 11 de August de 2026
+📅 Juventus - 12 de August de 2026
 
 ⭐ Tier 1
-- «Gianluca Di Marzio»: La Juventus quiere cerrar esta semana el fichaje del portero, con Suzuki y Vicario aún en la carrera.
-- «Gianluca Di Marzio»: Lucumí sigue siendo el objetivo en defensa; el acuerdo con el jugador está cerrado y se negocia con el Bologna.
-- «Fabrizio Romano»: La Juventus ha llegado a un acuerdo total en términos personales con Jhon Lucumí y sus agentes. Lucumí solo quiere la Juventus.
-- «Romeo Agresti»: La Juventus y el Bologna tendrán otra ronda de negociaciones por Lucumí; se espera una nueva oferta esta semana.
-- «Romeo Agresti»: Los jugadores que probablemente se quedarán en el mediocampo de la Juventus son Locatelli, Thuram, Douglas Luiz y McKennie. Para un nuevo refuerzo, deben salir al menos dos de los descartados.
+- «Fabrizio Romano»: A partir de hoy, el PSG se moverá a la parte formal del acuerdo por Suzuki. La Juventus está atenta a lo que suceda con el préstamo del jugador.
+- «Matteo Moretto, Fabrizio Romano»: Un club saudí ha estado llamando a Franck Kessié ofreciéndole mucho dinero, pero el jugador ha rechazado la oferta, esperando a la Juventus.
+- «Fabrizio Romano»: No hay discusiones avanzadas con el Aston Villa por David; la situación del canadiense sigue tranquila.
+- «Fabrizio Romano»: El acuerdo entre la agencia de Lucumí y la Juventus está cerrado. La Juventus y el Bologna están cada vez más cerca para cerrar el traspaso, que podría concretarse este fin de semana.
+- «Romeo Agresti»: No está convencido de que la Juventus cierre el trato por Zirkzee si David se va; la dirección está trabajando en secreto en otros delanteros.
+- «Romeo Agresti»: La Juventus busca cerrar el acuerdo por Lucumí a finales de esta semana o principios de la próxima. El Bologna pide 25M€, la Juve quiere menos de 20M€, pero hay optimismo.
+- «Romeo Agresti»: Ha habido contacto entre Juventus y PSG por Suzuki. También se mantiene a Vicario en el radar.
+- «Gianluca Di Marzio»: Lucumí está a un paso de la Juventus por 20 millones de euros, incluyendo bonificaciones. Se espera cerrar todo para el fin de semana.
 
 🥈 Tier 2
-- «Alfredo Pedullà»: Las dos cosas más inminentes para la Juventus son el portero y el defensa. Los documentos entre PSG y Parma por Suzuki están listos. El caso Lucumí tendrá seguimiento.
-- «Alfredo Pedullà»: Frattesi esperó mucho tiempo por una señal de la Juventus que no llegó, y ahora está abierto a ir a la Lazio.
-- «Mirko Di Natale»: La Juventus presentará esta semana una nueva oferta al Bologna por Jhon Lucumí, acercándose a los 20/22 millones (incluyendo bonos).
-- «Nicolò Schira»: Entre mañana y pasado mañana, la Juventus volverá a presionar al Bologna y aumentará la oferta por Lucumí a 20 millones de euros más Cabal cedido con opción de compra.
-- «Giovanni Albanese»: Milik ha dado señales reconfortantes y su entorno se reunirá con la directiva. Podría ser muy útil para Spalletti.
-- «Mirko Di Natale»: Juan Cabal no es el único en la lista del Bologna para reforzar la defensa; también muestran interés en Juan Rodríguez del Cagliari y Fedde Leysen del Union St. Gilloise.
+- «Nicolò Schira»: El traspaso de Jhon Lucumí a la Juventus desde el Bologna está en su fase final por 20M€ más un 10% de una futura venta, con un contrato hasta 2031 (2,5M€/año).
+- «Alfredo Pedullà»: El acuerdo por Lucumí se está cerrando y se ha definido en 17/18M€ más bonificaciones para alcanzar los 20M€.
+- «Giovanni Albanese»: La aventura de Di Gregorio en la Juventus podría estar llegando a su fin, con la opción del Valencia en préstamo con obligación de compra como la más probable.
+- «Alfredo Pedullà»: Lucumí es el único nombre mencionado para la defensa bianconera durante 50 días y el principal objetivo, habiendo rechazado al menos 5 ofertas para esperar a la Juve.
+- «Alfredo Pedullà»: La Juventus ofrece entre 17 y 18 millones de euros más bonificaciones por Lucumí, para alcanzar los 20 millones.
 
 📰 Periódicos
-- «Tuttosport»: Spalletti confía en el ataque de la Juventus tras el 2-0 contra el Palermo, con Yildiz y Milik marcando. Douglas Luiz podría quedarse y se espera que el equipo se complete pronto.
-- «Gazzetta dello Sport»: Milik ha dado señales reconfortantes y su entorno se reunirá con la directiva. Podría ser muy útil para Spalletti.
+- «Tuttosport»: Alajbegovic, talento bosnio, dice que muchos lo buscaron pero no se puede decir no a la Juve. Suzuki dice sí y Lucumí está cerca.
