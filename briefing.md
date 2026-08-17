@@ -1,19 +1,19 @@
-📅 Juventus - 15 de August de 2026
+📅 Juventus - 16 de agosto de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano»: La Juventus está trabajando intensamente en la salida de Di Gregorio, ya que las condiciones para su permanencia en Turín no son las ideales.
-- «Fabrizio Romano»: Las conversaciones entre Juventus y Dibu Martínez no están avanzadas tras la llamada de hoy. Dibu sufrió problemas físicos durante el Mundial y la Juve considera más porteros, mientras Aston Villa avanza por Zion Suzuki.
-- «Fabrizio Romano»: La Juventus, tras el colapso del acuerdo Suzuki-PSG y la intervención del Aston Villa, preguntó por Emiliano Martínez, pero persiste la incógnita física por una lesión en el dedo.
-- «Fabrizio Romano»: No tengo conocimiento de que la Juventus haya vuelto a llamar por Suzuki; el club bianconero sabe que solo puede ser fichado de forma permanente por 35 millones de euros, cifra que la dirección no está dispuesta a pagar.
-- «Gianluca Di Marzio»: La Juventus ha hecho un nuevo intento por Emiliano Martínez, aunque sin reapertura concreta, ligada a la posible llegada de Suzuki al Aston Villa. La opción Vicario está en espera y se evalúan otros nombres.
-- «Romeo Agresti»: El Bologna se mantiene firme en el préstamo con opción de compra por Juan David Cabal, mientras la Juventus busca una obligación de compra.
-- «Romeo Agresti»: Se habla de posibles trueques con el Milan por Fofana, incluyendo a Gatti, y el Napoli podría interesarse en el defensor bianconero al final del mercado.
-- «Gianluca Di Marzio»: El PSG está fuera de la carrera por Zion Suzuki y el Aston Villa puede avanzar para cerrar el trato.
+- «Romeo Agresti»: La Juventus está trabajando para conseguir a Vicario en calidad de préstamo con opción de compra.
+- «Gianluca Di Marzio»: Contactos en curso entre la Juventus y el Tottenham por Vicario, buscando un préstamo con opción de compra para cerrar lo antes posible.
+- «Fabrizio Romano»: El acuerdo entre la Juventus y Dibu Martínez está oficialmente caído debido a la alta diferencia de precio con el Aston Villa; la Juventus avanza por Vicario.
+- «Romeo Agresti»: El anuncio oficial de Lucumí debería llegar mañana, todo está bien.
+- «Gianluca Di Marzio»: La Juventus ha vuelto con fuerza por Vicario, intensificando los diálogos con el Tottenham para un préstamo con condiciones más favorables.
+- «Fabrizio Romano»: La Juventus ha hecho una oferta oficial al Tottenham por Guglielmo Vicario, quien quiere unirse a la Juventus; se negocia un préstamo con cláusula de compra.
+- «Fabrizio Romano»: El acuerdo por Emiliano Martínez entre Juventus y Aston Villa está 100% caído debido a grandes diferencias de precio y dudas de la Juve sobre su lesión en el dedo.
+- «Fabrizio Romano»: La Juventus y el Aston Villa siguen lejos de un acuerdo por Emiliano Martínez; el Villa pide 15M€ y la Juve ofrece 6M€ más complementos.
+- «Fabrizio Romano»: La Juventus llamó al Tottenham para evaluar un préstamo por Vicario, cuyo agente es el mismo que trabajó en el acuerdo de Lucumí.
 
 🥈 Tier 2
-- «Alfredo Pedullà»: No hay situaciones concretas sobre Fofana y la Juventus en este momento.
-- «Alfredo Pedullà»: La Juventus ha contactado al entorno de Suzuki y Emiliano Martínez, manteniendo en espera a Vicario, Trubin y Ederson; la salida de Di Gregorio es fundamental para avanzar.
-- «Giovanni Albanese»: Trubin gusta mucho, pero el Benfica pide 40 millones de euros, cifra demasiado alta para la Juventus, que podría volver a Vicario, aunque no convence al 100%.
-- «Giovanni Albanese»: Di Gregorio podría estar cerca del Valencia en un acuerdo de préstamo con obligación de compra de unos 15 millones de euros, condicionado a objetivos personales.
-- «Giovanni Albanese»: No hay un giro de la Juventus de Vicario a Dibu Martínez, al menos no todavía. La Juventus tiene prisa por cerrar la mejor solución para la portería.
-- «Nicolò Schira»: Zion Suzuki se acerca al Aston Villa, que está listo para pagar 30 millones de euros más bonificaciones al Parma por el portero, con un contrato hasta 2031.
+- «Giovanni Albanese»: El Tottenham ha abierto la puerta a un préstamo por Vicario, y la Juventus está convencida de proceder rápidamente; la decisión de dejar la negociación por Dibu Martínez se debe a una evaluación económica.
+- «Mirko Di Natale»: La Juventus trabaja para conseguir la apertura del Tottenham a un préstamo con opción de compra por Guglielmo Vicario; los contactos entre los clubes se reanudaron en las últimas horas.
+
+📰 Periódicos
+- «Sky Sport»: La pista de Vicario se calienta para la Juventus; se han intensificado los contactos con el Tottenham.
