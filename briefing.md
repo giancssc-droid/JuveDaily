@@ -1,19 +1,18 @@
-📅 Juventus - 16 de agosto de 2026
+📅 Juventus - 17 de agosto de 2026
 
 ⭐ Tier 1
-- «Romeo Agresti»: La Juventus está trabajando para conseguir a Vicario en calidad de préstamo con opción de compra.
-- «Gianluca Di Marzio»: Contactos en curso entre la Juventus y el Tottenham por Vicario, buscando un préstamo con opción de compra para cerrar lo antes posible.
-- «Fabrizio Romano»: El acuerdo entre la Juventus y Dibu Martínez está oficialmente caído debido a la alta diferencia de precio con el Aston Villa; la Juventus avanza por Vicario.
-- «Romeo Agresti»: El anuncio oficial de Lucumí debería llegar mañana, todo está bien.
-- «Gianluca Di Marzio»: La Juventus ha vuelto con fuerza por Vicario, intensificando los diálogos con el Tottenham para un préstamo con condiciones más favorables.
-- «Fabrizio Romano»: La Juventus ha hecho una oferta oficial al Tottenham por Guglielmo Vicario, quien quiere unirse a la Juventus; se negocia un préstamo con cláusula de compra.
-- «Fabrizio Romano»: El acuerdo por Emiliano Martínez entre Juventus y Aston Villa está 100% caído debido a grandes diferencias de precio y dudas de la Juve sobre su lesión en el dedo.
-- «Fabrizio Romano»: La Juventus y el Aston Villa siguen lejos de un acuerdo por Emiliano Martínez; el Villa pide 15M€ y la Juve ofrece 6M€ más complementos.
-- «Fabrizio Romano»: La Juventus llamó al Tottenham para evaluar un préstamo por Vicario, cuyo agente es el mismo que trabajó en el acuerdo de Lucumí.
+- «Fabrizio Romano, Matteo Moretto»: Milan y Juventus han contactado para evaluar posibles acuerdos hasta el final del mercado, con los nombres de Fofana y Tomori sobre la mesa.
+- «Di Marzio»: Juventus podría sumar un nuevo mediocampista como Fofana del Milan, quien es un nombre destacado, y Kessié también sigue en la lista.
 
 🥈 Tier 2
-- «Giovanni Albanese»: El Tottenham ha abierto la puerta a un préstamo por Vicario, y la Juventus está convencida de proceder rápidamente; la decisión de dejar la negociación por Dibu Martínez se debe a una evaluación económica.
-- «Mirko Di Natale»: La Juventus trabaja para conseguir la apertura del Tottenham a un préstamo con opción de compra por Guglielmo Vicario; los contactos entre los clubes se reanudaron en las últimas horas.
+- «Nicolò Schira»: Lazio ha pedido información por Daniele Rugani, quien podría dejar la Juventus este verano; Monza también está interesado en el defensa central.
+- «Nicolò Schira»: Nico González no está en los planes de la Juventus y espera al Atlético de Madrid; el extremo ha sido ofrecido al Atalanta y al AC Milan por un intermediario.
+- «Daniele Longo»: Juventus y Milan están en conversaciones hoy, con contactos cercanos entre ambas directivas, estudiando acuerdos más amplios que no se limitan solo a Tomori y Fofana.
+- «Michele De Blasis»: Vicario terminó sus exámenes médicos hace unos diez minutos, mañana será oficialmente jugador de la Juventus.
+- «Michele De Blasis»: Guglielmo Vicario sigue en el JMedical para someterse a sus exámenes médicos, que deberían finalizar en breve.
 
 📰 Periódicos
-- «Sky Sport»: La pista de Vicario se calienta para la Juventus; se han intensificado los contactos con el Tottenham.
+- «@ilbianconerocom»: Las visitas médicas de Vicario han terminado.
+- «Sky Sport»: John Elkann declaró que la Juventus necesita empezar a ganar para lograr resultados importantes en Italia y Europa, y que están en una fase de reconstrucción con el objetivo de volver a la cima.
+- «Sky Sport»: John Elkann sobre Carnevali: "Giovanni es un gran profesional que conoce el fútbol italiano a fondo; la Juventus está llevando a cabo un proceso de refuerzo que debe partir de Italia y respetar la identidad del club, una identidad que se mezcla increíblemente bien con las capacidades y ambiciones de Giovanni Carnevali, que son las mismas que las del club, es decir, buscar la victoria".
+- «Sky Sport»: John Elkann sobre su relación con Spalletti: "La relación que tengo con Spalletti es fuerte, y la experiencia de poder verlo en el banquillo fue algo que realmente no pude rechazar. Lo disfruté mucho, también porque pude escuchar sus pensamientos de primera mano durante el partido, además de que desde el banquillo, tienes una vista completamente única del juego".
