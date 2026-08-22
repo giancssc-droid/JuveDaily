@@ -1,20 +1,20 @@
-📅 Juventus - Thursday 20 de August de 2026
+📅 Juventus - Friday 21 de August de 2026
 
 ⭐ Tier 1
-- «Matteo Moretto, Fabrizio Romano»: Son horas cruciales para el futuro de Mattia Perin; entre hoy y el fin de semana se definirá si el Palermo tiene la capacidad financiera para ficharlo de forma permanente.
-- «Fabrizio Romano»: La Juventus ha llegado a un acuerdo con Arthur para la rescisión de su contrato, a petición del jugador para encontrar una solución financiera y un nuevo club rápidamente.
-- «Fabrizio Romano»: Kessié tiene una oferta importante del Al-Ittihad, que está presionando, mientras la Juventus debe decidir; el jugador ha dicho que esperará a la Vecchia Signora, pero el asunto está ligado a salidas y Arthur no es suficiente.
-- «Gianluca Di Marzio»: Franck Kessié ha dado prioridad a la Juventus, pero primero se necesitan algunas salidas, como la de Arthur que podría rescindir su contrato mañana.
-- «Fabrizio Romano»: Juventus y Arthur Melo están a punto de separarse mediante la rescisión de contrato por mutuo acuerdo; el acuerdo financiero está casi cerrado después de que el centrocampista brasileño pidiera marcharse.
+- «Gianluca Di Marzio»: Para la portería de la Juventus, además de Santiago Beltrán, ha surgido el nombre de Pietro Terracciano del Milan, una opción muy diferente al joven argentino.
+- «Fabrizio Romano»: ¡Aquí vamos! El Bournemouth ha acordado un préstamo para fichar a Michele Di Gregorio de la Juventus, con una opción de compra de 14 millones de euros más bonificaciones.
+- «Gianluca Di Marzio»: Acuerdo alcanzado entre Bournemouth y Juventus por Di Gregorio, un préstamo con opción de compra de 14 millones más bonificaciones.
+- «Fabrizio Romano»: Michele Di Gregorio ha dicho sí al Bournemouth mientras las negociaciones con la Juventus por el préstamo avanzan, incluyendo una cláusula de opción de compra.
+- «Romeo Agresti»: La Juventus está muy activa buscando una solución para Teun Koopmeiners y hará todo lo posible en los próximos días para encontrarle un nuevo club al holandés.
 
 🥈 Tier 2
-- «Alfredo Pedullà»: La línea anticipada anoche sobre Kessié-Juventus está totalmente confirmada: él seguirá esperando, aunque el Al-Ittihad ha relanzado su oferta.
-- «Nicolò Schira»: La Juventus sigue interesada en Frank Kessié como agente libre, ofreciéndole un contrato hasta 2028 (4M€/año + bonificaciones), y el jugador ha dado su disponibilidad, pero el club trabaja en la venta de dos centrocampistas.
-- «Giovanni Albanese»: La tradicional invasión de campo en el partido amistoso familiar ya no estará permitida a partir del próximo año, debido a la lesión de Gatti y los daños a la estructura.
-- «Nicolò Schira»: Si el Atlético de Madrid ficha a Nicholas Jackson, esto podría reabrir la puerta para que la Juventus busque a Alexander Sørloth, siempre que encuentren una salida para Jonathan David.
-- «Mirko Di Natale»: Francesco Verde se encamina a quedarse en el JNextGen; por Javier Gil Puche, hay interés del Juve Stabia y otros clubes de la Serie B.
-- «Alfredo Pedullà»: Perin está reflexionando sobre el Palermo; la Juventus se ha interesado por la situación de Mandas, a quien habían seguido en el pasado.
+- «Nicolò Schira»: Pietro Terracciano (AC Milan) y Marco Sportiello (Atalanta) han sido ofrecidos a la Juventus como suplentes de Vicario.
+- «Nicolò Schira»: Se ha dado el visto bueno para el traspaso de Perin al Palermo, con la Juventus dejándolo ir por un precio bajo, casi gratis, con un bono en caso de ascenso.
+- «Nicolò Schira»: El Bournemouth ha enviado a la Juventus la primera oferta oficial para fichar a Michele Di Gregorio en préstamo (2M€) + opción de compra (14M€). El portero ha acordado términos personales por un contrato hasta 2031 con un salario de 3M/año + bonificaciones.
+- «Nicolò Schira»: Michele Di Gregorio ha dicho sí al Bournemouth, mientras las negociaciones con la Juventus por el préstamo avanzan, incluyendo una cláusula de opción de compra.
 
 📰 Periódicos
-- «Gazzetta dello Sport»: La tradicional invasión de campo en el partido amistoso familiar ya no estará permitida a partir del próximo año, debido a la lesión de Gatti y los daños a la estructura.
-- «@ilbianconerocom»: La situación del mediocampo de la Juventus es delicada en términos de números y calidad; la condición de Khephren Thuram preocupa al club, y es posible que la Juve pase otra temporada sin contar constantemente con el francés.
+- «Tuttosport»: Kessié y Zirkzee podrían convertir a la Juventus en un equipo de Scudetto, según Tardelli. Perin y Di Gregorio están fuera, con Beltrán y Musso como opciones para la portería.
+- «Corriere dello Sport»: La Juventus tiene la idea de Beltrán para la portería, con negociaciones en curso con River Plate. Di Gregorio se va al Bournemouth.
+- «IlBianconero»: Michele Di Gregorio se va al Bournemouth en préstamo con opción de compra, el acuerdo está hecho.
+- «IlBianconero»: La Juventus y Di Gregorio están cerca del Bournemouth, se trabaja en un préstamo con opción de compra.
