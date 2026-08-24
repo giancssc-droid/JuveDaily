@@ -1,8 +1,15 @@
-📅 Juventus - 22 de August de 2026
+📅 Juventus - 23 de agosto de 2026
+
+⭐ Tier 1
+- «Fabrizio Romano»: La Juventus quiere mantener a Conceição y no venderlo; Spalletti lo considera intransferible, la posición del club es clara.
+- «Fabrizio Romano, Matteo Moretto»: Kamil Grabara, portero polaco del Wolfsburg, espera la respuesta definitiva de la Juve, ya dio el visto bueno.
+- «Fabrizio Romano»: Palermo ha acordado el fichaje de Mattia Perin de la Juventus; los exámenes médicos están programados para principios de semana, y Grabara es el favorito para ser el nuevo portero suplente de la Juventus.
+- «Gianluca Di Marzio»: Para el puesto post-Perin, se confirma la pole position de Grabara.
+- «Gianluca Di Marzio»: El Palermo ha cerrado el acuerdo para la llegada de Mattia Perin desde la Juventus.
+- «Romeo Agresti»: Perin al Palermo.
 
 🥈 Tier 2
-- «Nicolò Schira»: La Juventus no está convencida con Terracciano y Sportiello para el rol de vice-Vicario, y ha identificado a Grabara como el portero ideal, con un acuerdo total con el polaco para un préstamo con opción de compra hasta 2030, a la espera del sí final del Wolfsburg.
-- «Giovanni Albanese»: Spalletti querría probar a Nico González, pero el jugador está decidido a dejar Turín; el Atlético Madrid aún no ha presentado una oferta creíble y podría esperar hasta el final, mientras el Atalanta lo monitorea.
+- «Matteo Moretto»: Entre lunes y martes, Perin debería ir al Palermo; todo está bien entre el club rosanero y él, se están ultimando los detalles económicos con la Juventus para su salida.
 
 📰 Periódicos
-- «Sky Sport»: Posible alineación para la Juventus: Vicario; Kalulu, Bremer, Kelly, Cambiaso; Locatelli, Douglas Luiz; Conceicao, McKennie, Yildiz; Kolo Muani.
+- «@ilbianconerocom»: La Juventus reporta solo calambres para Vicario.
