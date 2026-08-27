@@ -1,17 +1,19 @@
-📅 Juventus - Tuesday 25 de August de 2026
+📅 Juventus - 27 de August de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano»: El acuerdo por Miretti entre Juventus y Besiktas está en fase de cierre, con el jugador abierto a la transferencia y el viaje planeado para hoy o mañana, en un préstamo con opción de compra.
-- «Di Marzio»: No hay novedades sobre Sørloth; el Atlético Madrid espera definir el futuro de Julián Álvarez. Nico González aún podría ser parte del acuerdo, pero David debe salir cuando haya un reemplazo de igual calibre.
-- «Fabrizio Romano»: Besiktas ha llegado a un acuerdo verbal para fichar a Fabio Miretti de la Juventus en un préstamo pagado con opción de compra de más de 10 millones de euros.
-- «Di Marzio»: El traspaso de Miretti al Besiktas en préstamo con opción de compra está cerca de completarse.
-- «Di Marzio»: La Roma ha entrado en la carrera por Kessié; la Juventus sigue presionando pero necesita salidas en el mediocampo.
+- «Fabrizio Romano»: La Juventus presiona en los contactos durante la noche por Kessié, no quiere perder su posición privilegiada y ha avanzado con los agentes del mediocampista.
+- «Gianluca Di Marzio»: La Roma se reunió con el agente de Kessié, reafirmando su interés; Gasperini lo admira, pero él siempre ha dado prioridad a la Juventus, Spalletti lo llamó varias veces.
+- «Gianluca Di Marzio»: En las próximas horas, nuevos contactos entre Juventus y Kessié, quien siempre ha dado prioridad a los bianconeri.
+- «Gianluca Di Marzio»: David es la salida ideal para la Juventus: su salario neto de 7M de euros les permitiría liberar espacio para Kessié y Zirkzee, pero no hay negociación avanzada.
 
 🥈 Tier 2
-- «Alfredo Pedullà»: Cabal está rechazando propuestas por ahora, la última del Bologna, y la Juventus sigue presionando para su salida.
-- «Nicolò Schira»: Besiktas ha ofrecido un préstamo con opción de compra por Miretti, quien ha dado su disponibilidad para un contrato de 4 años; la Juventus preferiría una obligación de compra.
-- «Nicolò Schira»: Franck Kessié se acerca a la Juventus como agente libre, con un contrato listo hasta 2028 más opción para 2029.
-- «Giovanni Albanese»: La salida de Miretti al Besiktas está cerca de definirse como préstamo con opción de compra, que podría convertirse en obligación, para liberar presupuesto para Kessié.
+- «Alfredo Pedullà»: La Juventus ha mantenido vivos los contactos con Mateta, quien tiene un par de otras propuestas; en la lista restringida siempre está Zirkzee, con diferentes características.
+- «Nicolò Schira»: Se esperan hoy los exámenes médicos y la firma de Fabio Miretti con el Besiktas, en un acuerdo de préstamo con opción de compra por un total de 14M de euros.
+- «Nicolò Schira»: El Parma está trabajando para fichar a un nuevo central: Diego Carlos (Fenerbahce) es el objetivo principal, Daniele Rugani (Juventus) es el Plan B.
+- «Alfredo Pedullà»: El avión para Miretti está listo para mañana por la mañana, con destino a Estambul; también hay un avión listo para recibir nuevos fichajes y desbloquear sagas de traspasos.
+- «Alfredo Pedullà»: El Atlético de Madrid ha puesto un muro por Sørloth y no considera su salida; la Juventus mantiene contactos con el entorno de Mateta y sigue monitoreando a Zirkzee.
 
 📰 Periódicos
-- «Sky Sport»: Franck Kessié espera definir su futuro; la Juventus busca un nuevo mediocampista y el marfileño ha dado prioridad a los bianconeri, pero se necesitan salidas en el mediocampo.
+- «Gazzetta dello Sport»: La Juventus trae a Zirkzee, el nuevo delantero centro, con el canadiense David uniéndose al Cholo.
+- «Tuttosport»: La Juventus se acerca a Kessié y encuentra una posible clave para el delantero noruego Sørloth, con la idea de un intercambio de préstamos con el Atlético.
+- «Sky Sport»: Se ha evaluado la condición de Yildiz, el personal médico intenta decidir si operarlo u optar por otra terapia; se espera que esté de baja entre 2 y 3 meses.
