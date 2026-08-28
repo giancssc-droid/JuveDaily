@@ -1,19 +1,20 @@
-📅 Juventus - 27 de August de 2026
+📅 Juventus - 28 de agosto de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano»: La Juventus presiona en los contactos durante la noche por Kessié, no quiere perder su posición privilegiada y ha avanzado con los agentes del mediocampista.
-- «Gianluca Di Marzio»: La Roma se reunió con el agente de Kessié, reafirmando su interés; Gasperini lo admira, pero él siempre ha dado prioridad a la Juventus, Spalletti lo llamó varias veces.
-- «Gianluca Di Marzio»: En las próximas horas, nuevos contactos entre Juventus y Kessié, quien siempre ha dado prioridad a los bianconeri.
-- «Gianluca Di Marzio»: David es la salida ideal para la Juventus: su salario neto de 7M de euros les permitiría liberar espacio para Kessié y Zirkzee, pero no hay negociación avanzada.
+- «Fabrizio Romano»: Juventus mantiene la confianza en el fichaje de Kessié y no quiere perder el trabajo realizado; el club tiene el control de la situación y espera cerrar el trato pronto.
+- «Gianluca Di Marzio»: El agente de Kessié se reunió con la Juventus, pero la propuesta bianconera no ha sido aceptada; las negociaciones continúan sin acuerdo sobre contrato, bonos y tarifa de fichaje.
+- «Gianluca Di Marzio»: Juventus sigue negociando por Kessié; hubo una reunión con su agente, quien aún no ha aceptado la propuesta del club.
 
 🥈 Tier 2
-- «Alfredo Pedullà»: La Juventus ha mantenido vivos los contactos con Mateta, quien tiene un par de otras propuestas; en la lista restringida siempre está Zirkzee, con diferentes características.
-- «Nicolò Schira»: Se esperan hoy los exámenes médicos y la firma de Fabio Miretti con el Besiktas, en un acuerdo de préstamo con opción de compra por un total de 14M de euros.
-- «Nicolò Schira»: El Parma está trabajando para fichar a un nuevo central: Diego Carlos (Fenerbahce) es el objetivo principal, Daniele Rugani (Juventus) es el Plan B.
-- «Alfredo Pedullà»: El avión para Miretti está listo para mañana por la mañana, con destino a Estambul; también hay un avión listo para recibir nuevos fichajes y desbloquear sagas de traspasos.
-- «Alfredo Pedullà»: El Atlético de Madrid ha puesto un muro por Sørloth y no considera su salida; la Juventus mantiene contactos con el entorno de Mateta y sigue monitoreando a Zirkzee.
+- «Nicolò Schira»: Ali Camara (2008) del Genk ha acordado términos personales con la Juventus hasta 2029 + opción, y jugará en la Next Gen y Primavera.
+- «Nicolò Schira»: Juventus ha recibido solicitudes por Jeff Ekhator, quien podría salir cedido por una temporada para jugar más; se está reflexionando sobre su futuro.
+- «Nicolò Schira»: Zirkzee fue descartado por la Juventus porque Spalletti quiere un delantero con diferentes características y Kessié es su prioridad.
+- «Nicolò Schira»: El obstáculo para cerrar el fichaje de Kessié radica en el calendario de pagos; la Juventus quiere pagar las comisiones y el bono de fichaje en el tercer año, mientras que el agente y el jugador quieren el dinero de inmediato.
+- «Mirko Di Natale»: Hubo conversaciones directas entre la directiva de la Juventus y el entorno de Franck Kessié; hay acuerdo en el contrato (2+1) pero no en los bonos de fichaje, las negociaciones continúan.
+- «Alfredo Pedullà»: Kessié quiere la Juventus a toda costa, aunque aún quedan detalles por resolver sobre el paquete económico; es la prioridad para el mediocampo y solo los bianconeri están en la carrera.
+- «Alfredo Pedullà»: Para Licina, además de Avellino y Cremonese, el Parma ha preguntado; la Juventus no quiere perder el control del jugador.
+- «Giovanni Albanese»: La Juventus, en la reunión con el agente de Kessié, dejó clara su intención de cerrar el acuerdo y lanzó negociaciones sin parar para finalizar los detalles.
 
 📰 Periódicos
-- «Gazzetta dello Sport»: La Juventus trae a Zirkzee, el nuevo delantero centro, con el canadiense David uniéndose al Cholo.
-- «Tuttosport»: La Juventus se acerca a Kessié y encuentra una posible clave para el delantero noruego Sørloth, con la idea de un intercambio de préstamos con el Atlético.
-- «Sky Sport»: Se ha evaluado la condición de Yildiz, el personal médico intenta decidir si operarlo u optar por otra terapia; se espera que esté de baja entre 2 y 3 meses.
+- «Tuttosport»: La Juventus acelera por Kessié, con el acuerdo cerca de cerrarse, y Elkann tranquiliza a Yildiz.
+- «IlBianconero»: Ali Camara ha llegado a Turín y comenzará con la Next Gen.
