@@ -1,20 +1,17 @@
-📅 Juventus - 28 de agosto de 2026
+📅 Juventus - 29 de August de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano»: Juventus mantiene la confianza en el fichaje de Kessié y no quiere perder el trabajo realizado; el club tiene el control de la situación y espera cerrar el trato pronto.
-- «Gianluca Di Marzio»: El agente de Kessié se reunió con la Juventus, pero la propuesta bianconera no ha sido aceptada; las negociaciones continúan sin acuerdo sobre contrato, bonos y tarifa de fichaje.
-- «Gianluca Di Marzio»: Juventus sigue negociando por Kessié; hubo una reunión con su agente, quien aún no ha aceptado la propuesta del club.
+- «Gianluca Di Marzio»: El fichaje de Kessié por la Juventus sigue bloqueado, el jugador aún no ha tomado una decisión, pero la Roma mantiene los contactos.
+- «Gianluca Di Marzio»: El regreso de Yildiz se espera después del parón internacional de noviembre, perdiéndose varios partidos importantes.
 
 🥈 Tier 2
-- «Nicolò Schira»: Ali Camara (2008) del Genk ha acordado términos personales con la Juventus hasta 2029 + opción, y jugará en la Next Gen y Primavera.
-- «Nicolò Schira»: Juventus ha recibido solicitudes por Jeff Ekhator, quien podría salir cedido por una temporada para jugar más; se está reflexionando sobre su futuro.
-- «Nicolò Schira»: Zirkzee fue descartado por la Juventus porque Spalletti quiere un delantero con diferentes características y Kessié es su prioridad.
-- «Nicolò Schira»: El obstáculo para cerrar el fichaje de Kessié radica en el calendario de pagos; la Juventus quiere pagar las comisiones y el bono de fichaje en el tercer año, mientras que el agente y el jugador quieren el dinero de inmediato.
-- «Mirko Di Natale»: Hubo conversaciones directas entre la directiva de la Juventus y el entorno de Franck Kessié; hay acuerdo en el contrato (2+1) pero no en los bonos de fichaje, las negociaciones continúan.
-- «Alfredo Pedullà»: Kessié quiere la Juventus a toda costa, aunque aún quedan detalles por resolver sobre el paquete económico; es la prioridad para el mediocampo y solo los bianconeri están en la carrera.
-- «Alfredo Pedullà»: Para Licina, además de Avellino y Cremonese, el Parma ha preguntado; la Juventus no quiere perder el control del jugador.
-- «Giovanni Albanese»: La Juventus, en la reunión con el agente de Kessié, dejó clara su intención de cerrar el acuerdo y lanzó negociaciones sin parar para finalizar los detalles.
+- «Alfredo Pedullà»: La Juventus busca un lateral izquierdo, con rumores sobre Miranda y la posible inclusión de Cabal. También se habla de Emerson Palmieri en negociaciones con la Fiorentina y los bianconeri.
+- «Nicolò Schira»: Milik podría quedarse en la Juventus como tercera opción de ataque, enviando a Ekhator cedido.
+- «Nicolò Schira»: Fabio Miretti ha firmado con el Besiktas hasta 2031 (1+4), con un acuerdo de cesión por 2 millones de euros y opción de compra por 13 millones.
+- «Nicolò Schira»: Cagliari, Sassuolo, Genoa y Torino están interesados en el lateral derecho Tommaso Barbieri de la Cremonese, y la Juventus tiene un porcentaje importante en la venta.
+- «Alfredo Pedullà»: Licina está al 85% con la Cremonese y al 15% con la Serie B.
 
 📰 Periódicos
-- «Tuttosport»: La Juventus acelera por Kessié, con el acuerdo cerca de cerrarse, y Elkann tranquiliza a Yildiz.
-- «IlBianconero»: Ali Camara ha llegado a Turín y comenzará con la Next Gen.
+- «Tuttosport»: La Juventus se enfrenta al Parma a las 20:45, con Spalletti elogiando a Kolo Muani y preocupado por Yildiz y Thuram.
+- «Corriere dello Sport»: La Fiorentina supera a la Juve en la oferta por Zirkzee, y Paratici ofrece 20 millones por Beto para reemplazar a Kean.
+- «Sky Sport»: Posible alineación de la Juventus: Vicario; Kalulu, Bremer, Lucumí, Cambiaso; Douglas Luiz, Locatelli; Conceicao; Koopmeiners; Boga; Kolo Muani.
