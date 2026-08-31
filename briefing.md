@@ -1,16 +1,23 @@
-📅 Juventus - 29 de agosto de 2026
+📅 Juventus - August 30 de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano»: Juventus ha llegado a un acuerdo personal con Pape Matar Sarr; él quiere el traspaso. El acuerdo ahora depende de las conversaciones entre clubes con el Tottenham, préstamo con cláusula de compra, los Spurs también quieren incluir una obligación de compra condicional.
-- «Fabrizio Romano»: Juventus tiene el visto bueno de Sarr y ha superado al Mónaco, Besiktas y clubes ingleses. Sarr ahora quiere a los bianconeri, quienes han estado en contacto desde esta noche intentando cerrar el trato.
-- «Fabrizio Romano»: La salida de David de la Juventus es una pista absolutamente concreta. Queda por ver si el Atlético de Madrid logrará cerrar el trato o si otros clubes del extranjero intervendrán, pero ciertamente se debe prestar atención al delantero canadiense y, por lo tanto, a la posibilidad de que el club bianconero se mueva hacia un nuevo delantero.
+- «Fabrizio Romano»: Se espera el "HERE WE GO" para Sarr, la Juventus está lista para cerrar el fichaje y traerlo a Turín.
+- «Fabrizio Romano, Matteo Moretto»: La alternativa para el ataque es Zirkzee, la opción preferida de la Juventus por sus características técnicas, aunque las cifras aún están lejos de lo solicitado por el Manchester United.
+- «Fabrizio Romano»: La Juventus trabajó hasta tarde por Woltemade. Newcastle está abierto al traspaso, pero queda por ver si la Vecchia Signora irá hasta el final.
+- «Fabrizio Romano»: Joshua Zirkzee ha rechazado la oferta de la Fiorentina. La Juventus se ha acercado al Manchester United por Zirkzee, al igual que al Newcastle por Woltemade, en caso de que Jonathan David se marche.
+- «Fabrizio Romano»: Zirkzee informó a la Fiorentina que no acepta su propuesta. La Juventus sigue al acecho por el holandés; él y Woltemade están en la lista para reemplazar a David.
+- «Fabrizio Romano»: El fichaje de Zirkzee por la Fiorentina se cae. ¡HERE WE GO para Beto!
+- «Fabrizio Romano»: Estamos muy cerca de la línea de meta por Sarr: un préstamo de alrededor de 2M€ y una opción de compra de 26/28M€. Se trabaja en convertirla en obligación de compra.
+- «Di Marzio»: Beto al @acffiorentina, acuerdo permanente por 18 millones al @Everton.
+- «Di Marzio»: Beto es esperado en Florencia para los exámenes médicos con @acffiorentina. Luz verde para Kean al @Como_1907.
 
 🥈 Tier 2
-- «Mirko Di Natale»: El Tottenham pide 30 millones de euros por Sarr. Contactos en curso entre los clubes. La Juve está trabajando para encontrar un acuerdo sobre la fórmula.
-- «Alfredo Pedullà»: El Bologna intentó de nuevo por Cabal, pero sin incluir a Miranda en el trato, quien es difícil de vender hoy, pero el colombiano dice que no por ahora. La Juventus sigue presionándolo hacia la salida, hay un par de otros clubes interesados.
-- «Mirko Di Natale»: Esguince de tobillo derecho para Cambiaso.
+- «Alfredo Pedullà»: En la lista de delanteros de la Juventus también está Woltemade (con características diferentes a Zirkzee), quien dejará el Newcastle y tiene varias ofertas.
+- «Matteo Moretto»: La Fiorentina desbloquea la llegada de Beto, quien es esperado en Florencia en las próximas horas. El club viola decidió no esperar más por Joshua Zirkzee.
+- «Alfredo Pedullà»: Zirkzee-Juventus: los contactos directos se mantenían hace un mes y han continuado en las últimas horas. Todo depende de David.
 
 📰 Periódicos
-- «Tuttosport»: La Juventus gana con Nico y Koop, que superan al Parma. Spalletti consigue el máximo de puntos junto al Milan.
-- «Corriere dello Sport»: Kessié con Sarri, dos jugadores en riesgo de ser vendidos ayudan a Lucio: 2-0 contra el Parma. La Juve, Nico y Koop se encargan de los goles.
-- «Sky Sport»: La Juventus tiene un acuerdo personal con Sarr, como informó Fabrizio Romano. Para el Tottenham, es un jugador en salida, los Spurs necesitan ingresar una buena suma. Los bianconeri ofrecen un préstamo pagado con opción de compra, contactos por la noche.
+- «Gazzetta dello Sport»: La Juve ficha a Sarr. El refuerzo para Spalletti. ¿Se va David? Oferta por Zirkzee. Yildiz se opera hoy.
+- «Sky Sport»: El Borussia Dortmund ha preguntado por Jonathan David. Como y Atlético de Madrid también están interesados.
+- «Tuttosport»: Sarr y no solo eso. El senegalés es esperado hoy en Turín. Una maniobra de la Juve también en ataque: Spalletti llama a Woltemade.
+- «Corriere dello Sport»: La Juve, Sarr está en camino. Ahora, o Sørloth o Zirkzee. Tagliafico si se va Cabal. El Cholo va tras David.
