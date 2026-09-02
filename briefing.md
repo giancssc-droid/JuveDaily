@@ -1,18 +1,15 @@
-📅 Juventus - Monday 31 de August de 2026
+📅 Juventus - 01 de September de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano»: Hay un acuerdo de principio entre Atalanta y Juventus por Juan Cabal en préstamo con obligación de compra, pero el jugador aún no ha dado el visto bueno.
-- «Fabrizio Romano»: Tagliafico tiene un acuerdo con la Juventus y espera a los bianconeri, todo depende de la salida de Cabal, por quien Atalanta está presionando.
-- «Gianluca Di Marzio»: Juventus y Atalanta negociarán de nuevo por Cabal; la Juve solo lo venderá de forma definitiva, no a préstamo, y si hay acuerdo, irán por Tagliafico.
-- «Romeo Agresti»: Contactos positivos esta noche entre la Juve y el entorno de Tagliafico; ahora todo depende de la salida de Cabal.
+- «Fabrizio Romano»: El acuerdo con Woltemade estaba completamente finalizado, a pesar de los rumores; el jugador envió un mensaje a un director de la Juventus expresando su deseo de unirse al club.
+- «Fabrizio Romano»: La Juventus se encontró en una situación incómoda con Cabal, ya que no querían forzar su salida, lo que impidió el fichaje de Tagliafico.
 
 🥈 Tier 2
-- «Mirko Di Natale»: Atalanta presentará una oferta por Juan Cabal a la Juventus el 1 de septiembre; si Cabal se va, Nicolás Tagliafico del OL es el favorito.
-- «Alfredo Pedullà»: Hace una semana, Nico González y Koopmeiners fueron propuestos a la Roma sin éxito, mientras la Juventus recupera la sonrisa de dos posibles descartes.
-- «Alfredo Pedullà»: Atalanta ha llegado a un acuerdo con la Juventus por Cabal en préstamo con obligación de compra bajo ciertas condiciones, y mañana intentarán de nuevo.
-- «Nicolò Schira»: Pape Matar Sarr ya está pasando las pruebas médicas y firmará con la Juventus por 30M€ (préstamo con obligación de compra) y un contrato de 5 años.
-- «Nicolò Schira»: Spalletti ha pedido un tercer refuerzo, el lateral izquierdo argentino Nicolás Tagliafico, cuyo agente está en Italia y el Lyon ha dado luz verde para su salida.
+- «Alfredo Pedullà»: El Atalanta intentó fichar a Cabal, pero la Juventus lo rechazó porque necesitan al colombiano para adaptarse a la posición de lateral izquierdo.
+- «Alfredo Pedullà»: El Porto ha mostrado interés en Gatti, y el defensor de la Juventus desea jugar más, con el aprecio de Farioli por él siendo total.
+- «Mirko Di Natale»: La Juventus Next Gen ha finalizado el acuerdo con Carrarese por Filippo Melegoni, una incorporación de calidad para Massimo Brambilla.
 
 📰 Periódicos
-- «Gazzetta dello Sport»: Woltemade, el delantero alemán de 1.98m, llega a la Juve desde el Newcastle para Spalletti.
-- «Tuttosport»: Woltemade satisface a Spalletti, llegando a préstamo del Newcastle por 4 millones; Sarr ya está en Turín, y Yildiz fue operado y regresará en 3 meses.
+- «Corriere dello Sport»: La Juventus busca un ataque completamente renovado con la llegada de Nick en préstamo, tras las salidas de David, Vlahovic y Openda.
+- «Tuttosport»: Las llegadas de Sarr y Woltemade confirman la estrategia de la Juventus de buscar más altura y fuerza física, además de calidad.
+- «@ilbianconerocom»: Rugani, Cabal, Thuram, Zhegrova, Milik y Ekhator son los candidatos que podrían quedar fuera de la lista de la UEFA; en la Serie A, dos de entre Cabal, Zhegrova, Milik y Thuram.
