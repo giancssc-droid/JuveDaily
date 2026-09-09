@@ -1,16 +1,14 @@
-📅 Juventus - Monday 07 de September de 2026
+📅 Juventus - Tuesday 08 de September de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano»: Frattesi fue un jugador evaluado por la Juventus, pero no hubo acuerdo con el Inter; se habló de un intercambio con Cambiaso, pero ambas partes desistieron.
-- «Fabrizio Romano»: Bissouma, liberado del Tottenham, es otro jugador ofrecido a clubes italianos, aunque con dudas físicas; la Juventus está en una situación de emergencia.
-- «Fabrizio Romano»: Brozovic desea volver a Italia y se le ha ofrecido a varios clubes; la Juventus podría evaluarlo ante la emergencia por lesiones, pero hasta ahora no hay negociaciones.
-- «Fabrizio Romano»: Locatelli se someterá a una consulta especializada en Lyon y es casi seguro que necesitará cirugía por un problema de menisco, aunque no es una lesión de ligamento cruzado.
+- «Gianluca Di Marzio»: Juventus ha decidido oficialmente proceder con la cirugía de menisco de Locatelli en Lyon, con un regreso no antes de principios de 2027.
 
 🥈 Tier 2
-- «Nicolò Schira»: Manuel Locatelli será operado del menisco lateral y se proyecta una baja de 100 días, regresando en enero.
+- «Mirko Di Natale»: Locatelli regresará en 2027 (tiempo estimado de recuperación 5/6 meses), mientras que Boga estará fuera alrededor de 5 semanas.
+- «Nicolò Schira»: Jeremie Boga estará fuera aproximadamente un mes debido a una lesión de grado medio en el bíceps femoral.
+- «Giovanni Albanese»: Locatelli ha sido operado del menisco lateral de su rodilla derecha y estará fuera 5-6 meses; Boga tiene una lesión de grado medio en el bíceps femoral y estará fuera unas 5 semanas.
+- «Mirko Di Natale»: Con la lesión de Manuel Locatelli, aumentan las posibilidades de ver a Augusto Owusu permanentemente en el primer equipo.
 
 📰 Periódicos
-- «Corriere dello Sport»: Locatelli será operado por un desgarro de menisco.
-- «Tuttosport»: La Juventus sufre una racha de lesiones, con Locatelli operado por menisco y posible daño adicional, y Boga fuera por problemas musculares; Spalletti debe recurrir a Koopmeiners y Douglas Luiz.
-- «Tuttosport»: Locatelli deberá someterse a cirugía por su lesión de menisco lateral, con una recuperación de al menos 3 meses si se opta por sutura; Owusu es un posible refuerzo del Next Gen.
-- «Corriere dello Sport»: Se teme un problema de menisco para Locatelli y se evalúa una posible intervención quirúrgica; el capitán se perdería los partidos contra Sassuolo, NEC y Atalanta.
+- «Tuttosport»: Locatelli ya ha sido operado y podría estar fuera 6 meses; Boga tiene una lesión en el bíceps femoral y estará fuera 40-60 días.
+- «Gazzetta dello Sport»: A pesar de las lesiones en el mediocampo, Juventus no tiene intención de recurrir al mercado de agentes libres debido a las restricciones financieras y de registro.
