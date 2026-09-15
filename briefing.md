@@ -1,11 +1,17 @@
-📅 Juventus - 13 de septiembre de 2026
+📅 Juventus - Monday 14 de September de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano»: Las conversaciones sobre Bakola para la Juventus nunca fueron una negociación seria, ya que el Sassuolo siempre lo consideró intransferible.
-- «Fabrizio Romano»: La Juventus rechazó una oferta importante de Alemania por Adzic, enviándolo a préstamo al Sassuolo con opción de compra y una contra-opción de recompra.
-- «Fabrizio Romano»: Zhegrova se quedó en la Juventus porque no se encontró una solución en el mercado; su exclusión de la lista UEFA se debió a la convicción de la directiva de que lograrían venderlo.
-- «Fabrizio Romano»: La Juventus mantiene un control absoluto sobre la situación de Spalletti, a pesar de que el club y el entrenador esperaban un mejor inicio de temporada.
+- «Romeo Agresti»: Weston McKennie entrenó por separado hoy, pero ya está recuperado.
+- «Fabrizio Romano»: El CEO Carnevali afirma que no hay planes de cambiar de entrenador, Spalletti es extraordinario.
+- «Fabrizio Romano»: Las conversaciones sobre Bakola para la Juventus nunca fueron serias, el Sassuolo lo consideraba intransferible.
+- «Fabrizio Romano»: La Juventus rechazó una oferta importante por Adzic y lo cedió al Sassuolo con opción de recompra, la directiva está muy satisfecha con su inicio.
+- «Fabrizio Romano»: Zhegrova se quedó porque no se encontró una solución en el mercado, lo que llevó a su exclusión de la lista de la UEFA.
+
+🥈 Tier 2
+- «Mirko Di Natale»: La Juventus sigue interesada en el extremo francés Rossè Torres (16 años) del Niza, con contactos iniciales en agosto.
+- «Nicolò Schira»: Giovanni Carnevali de Radio Rai dice que no está pensando en un regreso de Conte en lugar de Spalletti.
+- «Mirko Di Natale»: Las derrotas fuera de casa contra el Sassuolo al inicio de la temporada históricamente han sacado el carácter de la Juventus y han llevado a una racha ganadora.
 
 📰 Periódicos
-- «Tuttosport»: La Juventus sufrió una derrota por 3-2 ante el Sassuolo en el minuto 94, con un doblete de Zhegrova y el gol decisivo del ex Adzic.
-- «Corriere dello Sport»: La Juventus perdió 3-2 contra el Sassuolo en el minuto 94, con un segundo tiempo carente de lógica y goles de Esposito, Zhegrova, Bowie y Adzic.
+- «Gazzetta dello Sport»: Spalletti y la Juve: el período de gracia ha terminado. Carnevali: "No soy de los que hacen cambios". Pero Conte...
+- «Tuttosport»: La Juve se sacude: defensa de 3, mediocampo reforzado, un atacante menos. Spalletti da una lección al equipo frente a los directivos.
