@@ -1,18 +1,16 @@
-📅 Juventus - Tuesday 22 de September de 2026
+📅 Juventus - Wednesday 23 de September de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano»: Neto es el más cercano para el puesto de portero de la Juventus; su regreso está cada vez más cerca con contactos positivos y el visto bueno del brasileño a un salario de bajo costo.
-- «Gianluca Di Marzio»: La Juventus está en contacto para el regreso de Neto.
-- «Romeo Agresti»: Neto es la primera opción absoluta para la portería de la Juventus, se espera que el acuerdo se finalice en los próximos días.
-- «Gianluca Di Marzio»: Neto está en la pole position sobre Sergio Rico para la portería de la Juventus; para el futuro, se sigue a Palmisani.
-- «Gianluca Di Marzio»: En el entrenamiento de la Juventus, Cambiaso trabajó parcialmente con el grupo, mientras que Kolo Muani solo hizo trabajo de gimnasio.
+- «Romeo Agresti»: No es del todo seguro que la temporada de Grabara haya terminado, aunque su situación sigue siendo muy comprometida.
+- «Fabrizio Romano»: Juventus ha acordado el regreso de Neto como nuevo portero con un contrato a corto plazo, tras la lesión de rodilla de Kamil Grabara.
+- «Gianluca Di Marzio»: El fichaje de Neto por la Juventus está hecho, con un contrato de un año.
 
 🥈 Tier 2
-- «Alfredo Pedullà»: Neto es el principal candidato para la Juventus desde el sábado para reemplazar al lesionado Grabara, y ahora se están ultimando los detalles.
-- «Alfredo Pedullà»: Neto ha sido el principal candidato durante días para reemplazar a Grabara, con Sergio Rico siendo el otro perfil plausible, pero menos convincente.
-- «Matteo Moretto»: Neto y la Juventus están en la recta final, el club tendrá otro contacto directo con el portero mañana para acordar el salario, las partes están muy cerca de cerrar el trato.
-- «Mirko Di Natale»: La Juventus prefiere que Radu encuentre continuidad en el NextGen, por lo que la idea de Neto no es incorrecta.
+- «Mirko Di Natale»: Todo listo para el regreso de Neto a la Juventus.
+- «Matteo Moretto»: El acuerdo por Neto a la Juventus está cerrado.
+- «Nicolò Schira»: Norberto Neto llega a la Juventus como agente libre, pendiente de exámenes médicos, con contrato hasta junio de 2027.
 
 📰 Periódicos
-- «Corriere dello Sport»: El algoritmo de Opta recompensa a la Juventus, garantizándoles un puesto en la Champions League, con Inter, Roma y Como formando los tres primeros.
-- «Tuttosport»: La Juventus planea una reestructuración del scouting, con menos algoritmos y más contactos directos, y se espera que Neto esté a un paso de unirse.
+- «Tuttosport»: Neto llega hoy, con Palmisani como futuro objetivo; los padres del portero del Frosinone expresan que la Juve es un sueño.
+- «Corriere dello Sport»: Italiano agradece a la Juve, mencionando a Vlahovic como el más fuerte que ha entrenado y a Miretti como un jugador que cambia partidos.
+- «Gazzetta dello Sport»: La Juventus busca aumentar la presencia de jugadores italianos en la plantilla, apuntando a jóvenes talentos como Raimondo del Frosinone y Romano del Cagliari.
