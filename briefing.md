@@ -1,17 +1,17 @@
-📅 Juventus - Thursday 24 de September de 2026
-
-⭐ Tier 1
-- «Romeo Agresti»: Se esperan nuevos desarrollos en el scouting; la elección es traer un perfil externo como jefe de scouting, ya que Juventus debe tener un equipo de scouting interno.
-- «Romeo Agresti»: No es del todo seguro que la temporada de Grabara haya terminado, aunque su temporada sigue estando muy comprometida debido a su lesión.
+📅 Juventus - Friday 25 de September de 2026
 
 🥈 Tier 2
-- «Giovanni Albanese»: Ekhator apunta a regresar entre finales de octubre y principios de noviembre, lo que podría ser importante para Spalletti, quien no pudo conseguir otro delantero centro en el mercado.
-- «Nicolò Schira»: Se espera que mañana Norberto Neto realice los exámenes médicos y firme con la Juventus, con un contrato hasta junio de 2027.
-- «Nicolò Schira»: Juventus ha cerrado el fichaje de Neto; los exámenes médicos y la firma se realizarán en las próximas horas. Recibirá un salario de menos de 500.000 euros hasta el 30 de junio.
+- «Giovanni Albanese»: Cambiaso está casi listo para regresar gradualmente después del parón internacional, su recuperación se maneja con cautela debido a un problema de tobillo persistente.
+- «Giovanni Albanese»: Juventus quiere evaluar a Ekhator en el campo para decidir en enero si se queda o sale cedido, ya que recibió ofertas en verano, incluida una del Porto.
+- «Giovanni Albanese»: La recuperación de Yildiz progresa con cautela y signos positivos; el parón de noviembre es una posible ventana para evaluar su regreso, con el objetivo de que esté en su mejor forma en el nuevo año.
+- «Giovanni Albanese»: Ekhator está trabajando para superar sus problemas musculares y apunta a regresar a finales de octubre o principios de noviembre, con buenas posibilidades de tener minutos como único delantero centro.
+- «Nicolò Schira»: Hoy es el día del regreso de Norberto Neto a la Juventus, con exámenes médicos programados y firma de contrato hasta junio de 2027.
 
 📰 Periódicos
-- «Tuttosport»: La Juventus asegura a Conceição y reserva a dos laterales; Mendes renovaría hasta 2031. Massara sigue a Raum del Leipzig y Mitchell del Crystal Palace.
-- «Corriere dello Sport»: La Juventus busca un centrocampista central entre André y Bakola. Massara estudia al brasileño y a Breno Bidon, otro talento del Corinthians. También gusta el francés del Sassuolo.
-- «Tuttosport»: Spalletti estudia un nuevo experimento táctico: Cambiaso podría ser probado como mezzala derecha en un mediocampo de tres, con McKennie y Douglas Luiz protegiéndolo.
-- «Corriere dello Sport»: Italiano agradece a la Juventus y destaca a Vlahovic como el jugador más fuerte que ha entrenado y a Miretti como un jugador que cambia los partidos.
-- «Tuttosport»: Neto llega hoy a la Juventus, el futuro es Palmisani. Entrevista con los padres de Palmisani, quienes afirman que la Juventus es un sueño para ellos.
+- «Tuttosport»: Entrevista con Causio: González "rompe partidos" y tiene "algo extra"; Conceição y Kolo deberían practicar más. Douglas Luiz renovará para distribuir su salario.
+- «Tuttosport»: Massara tiene dos dossiers sobre su escritorio: David Raum (Leipzig) y Tyrick Mitchell (Crystal Palace), ambos laterales izquierdos, agentes libres y representados por la agencia ROOF, podrían ser opciones para enero.
+- «Tuttosport»: Juventus busca renovar a Conceição con un acuerdo de 4 años y un salario superior a los 4 millones de euros; Mendes discutirá con la directiva antes de fin de año para protegerse del interés de la Premier League.
+- «Gazzetta dello Sport»: Yildiz sigue con muletas y una férula, realizando rehabilitación con una baja estimada de 3 meses; Juventus busca reintegrarlo en el parón de noviembre para tenerlo disponible a principios de diciembre.
+- «Gazzetta dello Sport»: Bruno Fernandes podría dejar el Manchester United en 2027; la Juventus podría reingresar en la carrera el próximo año, pero el alto salario sería un obstáculo, aunque hay fuerte interés de Arabia Saudita.
+- «Corriere dello Sport»: La Juventus busca un mediocampista central, con Massara estudiando a André y Breno Bidon, talentos del Corinthians, además de interesarse en el francés del Sassuolo.
+- «Tuttosport»: La Juventus busca asegurar a Conceição con una renovación hasta 2031, mientras Massara sigue a Raum del Leipzig y Mitchell del Crystal Palace para los laterales.
