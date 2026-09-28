@@ -1,20 +1,14 @@
-📅 Juventus - 26 de septiembre de 2026
+📅 Juventus - 27 de septiembre de 2026
 
 ⭐ Tier 1
-- «Romeo Agresti»: Neto se espera en Turín mañana.
+- «Fabrizio Romano»: El técnico de Portugal, Jorge Jesus, elogió a Francisco Conceição, quien sintió dolor tras un golpe pero luchó y aportó calidad; el cuerpo médico portugués ha dado señales positivas sobre su condición.
+- «Gianluca Di Marzio»: Neto ha completado sus exámenes médicos y su firma con la Juventus es inminente, habiendo llegado ya a la Continassa.
+- «Romeo Agresti»: Neto ha llegado a Turín.
 
 🥈 Tier 2
-- «Nicolò Schira»: La ventana de fichajes de invierno en Italia se abrirá el 28 de diciembre y cerrará el 1 de febrero.
-- «Nicolò Schira»: Han comenzado las conversaciones para la renovación de contrato de Nico González, quien parecía destinado a irse pero ahora es un valor añadido.
-- «Mirko Di Natale»: La llegada de Neto a la Juventus se espera para mañana.
-- «Mirko Di Natale»: Rayan Aït-Nouri, quien no está teniendo muchos minutos en el Man City, podría ser una oportunidad seria para la Juventus en enero si su situación no cambia.
-- «Nicolò Schira»: Se esperan los exámenes médicos de Norberto Neto mañana, luego firmará contrato hasta junio de 2027 y entrenará el lunes.
-- «Nicolò Schira»: La Juventus ha iniciado conversaciones con los agentes de Douglas Luiz para discutir una posible extensión de contrato.
-- «Giovanni Albanese»: Cambiaso está casi listo para regresar gradualmente a la acción después del parón internacional, y la Juventus ya busca un suplente para enero.
-- «Giovanni Albanese»: La Juventus quiere evaluar a Ekhator a su regreso y la idea es que podría ser más útil quedándose en el equipo que siendo cedido.
-- «Giovanni Albanese»: La recuperación de Yildiz progresa con cautela y signos positivos, con el objetivo de que regrese a su mejor nivel en el nuevo año.
+- «Nicolò Schira»: Neto será anunciado oficialmente mañana para cubrir la baja de Grabara; la Juventus necesitará otro portero joven para competir con Vicario, y el nombre de Palmisani (20M€) se confirma como uno de los monitoreados.
+- «Giovanni Albanese»: La Juventus está en conversaciones para la renovación de Kalulu, quien tiene contrato hasta 2029 y el club evalúa un ajuste salarial y extensión por su rol de líder, versatilidad y actitud.
 
 📰 Periódicos
-- «Gazzetta dello Sport»: Vicario convence cada vez más y la Juventus se inclinaría a comprarlo permanentemente por 8M€ al final de la temporada.
-- «Tuttosport»: La portada destaca a Nico González como un jugador con clase y garra dignas de la Juve, y menciona la renovación de Douglas Luiz para repartir su salario.
-- «Tuttosport»: La Juventus tiene en su radar a David Raum del Leipzig y Tyrick Mitchell del Crystal Palace para el lateral izquierdo, ambos representados por la agencia ROOF y posibles agentes libres al final de la temporada.
+- «Tuttosport»: El ex director deportivo Sabatini afirma que el equipo de Spalletti necesita tiempo para arrancar, pero una vez que lo haga, despegará, solo necesita recuperar un par de mediocampistas.
+- «Gazzetta dello Sport»: Spalletti quiere aprovechar al máximo a Woltemade después del parón internacional, estudiándolo como mediapunta, falso 9 o alternando con Kolo Muani, creyendo firmemente en él.
