@@ -1,18 +1,21 @@
-📅 Juventus - 30 de septiembre de 2026
+📅 Juventus - Thursday 01 de October de 2026
 
 ⭐ Tier 1
-- «Romeo Agresti»: Douglas Luiz se quedó en la Juventus porque Spalletti quería evaluarlo y no llegaron ofertas permanentes, aunque necesita mejorar para ser un jugador más completo.
-- «Romeo Agresti»: La Juventus nunca pensó en devolver a Nico González al Atlético de Madrid; un intercambio con Sørloth no fue posible porque los españoles no estaban abiertos a esa opción.
+- «Romeo Agresti»: Las lesiones de Jeremie Boga y Jeff Ekhator podrían verlos regresar en noviembre. Kenan Yildiz se recupera según lo previsto para diciembre. Manuel Locatelli volvería entre febrero y marzo, y Khéphren Thuram a principios de 2027.
+- «Romeo Agresti»: Randal Kolo Muani sigue siendo la principal referencia ofensiva de la Juventus, aunque la coexistencia con Nick Woltemade es una solución concreta en la que trabaja Spalletti.
+- «Romeo Agresti»: Zeki Çelik ha demostrado gran fiabilidad en el flanco izquierdo de la Juventus, y Andrea Cambiaso tendrá que elevar su nivel para desafiarlo. Se evalúan soluciones tácticas para el italiano en el mediocampo o posiciones más avanzadas.
 
 🥈 Tier 2
-- «Matteo Moretto»: A pesar de los desmentidos del club, Ginevra Elkann sigue siendo el nombre más fuerte como solución interna para la presidencia de la Juventus, y ella está disponible para el puesto.
-- «Giovanni Albanese»: La Juventus busca asegurar a los mejores talentos de su cantera, evaluando un ajuste de contrato para Elimoghale y maximizando el valor de Vinovo como fuente de talento y ingresos.
-- «Nicolò Schira»: La Juventus evalúa una extensión de contrato de un año para Douglas Luiz, lo que sería útil técnica y económicamente, y ya hay señales de un posible acuerdo.
+- «Giovanni Albanese»: El aumento de capital de 250 millones de euros no es enteramente para el mercado. En enero, la dirección tendrá margen para fichajes, priorizando un extremo izquierdo y un delantero centro físico, mientras monitorea a Ekhator.
+- «Giovanni Albanese»: Juventus busca asegurar a los mejores talentos de su cantera, con Elimoghale como nombre principal, evaluando un ajuste de contrato. También buscan maximizar el valor de Vinovo como fuente de talento y ingresos.
+- «Matteo Moretto»: A pesar de los desmentidos, Ginevra Elkann fue y sigue siendo el nombre más fuerte para la presidencia de la Juventus a finales de agosto y principios de septiembre, con disponibilidad y deseo de su parte.
 
 📰 Periódicos
-- «Corriere dello Sport»: La Juventus enfrenta la obligación de clasificar a la Champions League, con un calendario apretado de 9 partidos en 29 días después del parón.
-- «Tuttosport»: La Juventus evalúa 8 perfiles con contratos a punto de expirar, como Lobotka, Brahim Diaz y Kovacic, para mejorar la calidad del equipo y contener costos.
-- «Tuttosport»: Massara tiene buena relación con el entorno de Alessandro Romano y con el jugador, un punto de partida importante para una Juventus que necesita ser más italiana.
-- «Tuttosport»: Openda y David podrían ser importantes para el próximo mercado de fichajes en términos de ventas, mientras la Juventus busca deshacerse de fichajes erróneos y adquirir los correctos.
-- «Corriere dello Sport»: Elkann planea un nuevo aumento de capital de 250 millones de euros para la Juventus, tras un cierre de ejercicio con -66 millones, para garantizar la competitividad deportiva y la sostenibilidad del club.
-- «Tuttosport»: El déficit de 66 millones de euros de la Juventus para el año fiscal 2025-26 ha sido aprobado, y el 3 de noviembre se decidirá el momento de una nueva inyección de capital de 250 millones por parte de Elkann.
+- «Tuttosport»: Spalletti también sigue a Licina, cedido al Cremonese. Prueba para Kelly y Cambiaso, y oportunidad para jóvenes y reservas. Neto debutará.
+- «Tuttosport»: Probable alineación de la Juventus para el amistoso de mañana contra el Cremonese: Neto; Gatti, Bremer, Kelly; Savio, Makiobo, Macca, Melegoni, Cambiaso; McKennie; Kolo Muani.
+- «Tuttosport»: La Juventus trabaja en posibles agentes libres para futuras sesiones de mercado: Alisson y Santiago Beltran para la portería; Solet, Raum y Mitchell en defensa; Lobotka y Kovacic en el mediocampo; Brahim Díaz como gran objetivo en la mediapunta (aunque complejo); y Mateta en ataque.
+- «Gazzetta dello Sport»: En enero, la prioridad es el mediocampo: Hojbjerg vuelve a estar de moda, con la posible salida de Koopmeiners facilitando el acuerdo. Bakola entre las alternativas. Si Cabal se va, se podría intentar de nuevo por Ait-Nouri.
+- «Tuttosport»: Kolo Muani ya regresó a los entrenamientos grupales con un vendaje, participando en mini-partidos para recuperar su condición y terminar con su sequía goleadora. Spalletti lo sigue de cerca.
+- «Gazzetta dello Sport»: La Juventus envió un ojeador al partido Países Bajos-Alemania para seguir de cerca a Brobbey y van Dijk. Brobbey gusta por sus características y cuesta unos 40 millones de euros. Van Dijk, con contrato hasta 2027, es uno de los agentes libres monitoreados.
+- «Corriere dello Sport»: El aumento de capital de 250 millones de euros de Elkann multiplica las responsabilidades de Lucio. La clasificación para la Champions League es una obligación para equilibrar la nueva intervención financiera.
+- «Tuttosport»: La Juventus evalúa 8 perfiles con contratos a punto de expirar para un salto de calidad futuro con contención de costos: Lobotka, Brahim Díaz, Alisson, Solet, Kovacic, Beltran, Raum y Mateta. Mitchell del Crystal Palace también interesa. Kolo Muani ya entrena con un dedo roto.
