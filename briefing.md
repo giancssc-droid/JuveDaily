@@ -1,21 +1,18 @@
-📅 Juventus - Thursday 01 de October de 2026
+📅 Juventus - 02 de October de 2026
 
 ⭐ Tier 1
-- «Romeo Agresti»: Las lesiones de Jeremie Boga y Jeff Ekhator podrían verlos regresar en noviembre. Kenan Yildiz se recupera según lo previsto para diciembre. Manuel Locatelli volvería entre febrero y marzo, y Khéphren Thuram a principios de 2027.
-- «Romeo Agresti»: Randal Kolo Muani sigue siendo la principal referencia ofensiva de la Juventus, aunque la coexistencia con Nick Woltemade es una solución concreta en la que trabaja Spalletti.
-- «Romeo Agresti»: Zeki Çelik ha demostrado gran fiabilidad en el flanco izquierdo de la Juventus, y Andrea Cambiaso tendrá que elevar su nivel para desafiarlo. Se evalúan soluciones tácticas para el italiano en el mediocampo o posiciones más avanzadas.
+- «Gianluca Di Marzio»: Juventus, noche agridulce para Alajbegovic: primero el gol, luego la lesión. El mediocampista ofensivo bosnio encontró el empate contra Suecia, pero se vio obligado a abandonar el campo en el minuto 87 debido a un problema muscular.
 
 🥈 Tier 2
-- «Giovanni Albanese»: El aumento de capital de 250 millones de euros no es enteramente para el mercado. En enero, la dirección tendrá margen para fichajes, priorizando un extremo izquierdo y un delantero centro físico, mientras monitorea a Ekhator.
-- «Giovanni Albanese»: Juventus busca asegurar a los mejores talentos de su cantera, con Elimoghale como nombre principal, evaluando un ajuste de contrato. También buscan maximizar el valor de Vinovo como fuente de talento y ingresos.
-- «Matteo Moretto»: A pesar de los desmentidos, Ginevra Elkann fue y sigue siendo el nombre más fuerte para la presidencia de la Juventus a finales de agosto y principios de septiembre, con disponibilidad y deseo de su parte.
+- «Nicolò Schira»: El CEO de la Juventus, Giovanni Carnevali, confirma: "Lo apreciamos. Palmisani es un talento y tendrá un gran futuro". La Juve sigue monitoreando e interesada en el portero del Frosinone.
 
 📰 Periódicos
-- «Tuttosport»: Spalletti también sigue a Licina, cedido al Cremonese. Prueba para Kelly y Cambiaso, y oportunidad para jóvenes y reservas. Neto debutará.
-- «Tuttosport»: Probable alineación de la Juventus para el amistoso de mañana contra el Cremonese: Neto; Gatti, Bremer, Kelly; Savio, Makiobo, Macca, Melegoni, Cambiaso; McKennie; Kolo Muani.
-- «Tuttosport»: La Juventus trabaja en posibles agentes libres para futuras sesiones de mercado: Alisson y Santiago Beltran para la portería; Solet, Raum y Mitchell en defensa; Lobotka y Kovacic en el mediocampo; Brahim Díaz como gran objetivo en la mediapunta (aunque complejo); y Mateta en ataque.
-- «Gazzetta dello Sport»: En enero, la prioridad es el mediocampo: Hojbjerg vuelve a estar de moda, con la posible salida de Koopmeiners facilitando el acuerdo. Bakola entre las alternativas. Si Cabal se va, se podría intentar de nuevo por Ait-Nouri.
-- «Tuttosport»: Kolo Muani ya regresó a los entrenamientos grupales con un vendaje, participando en mini-partidos para recuperar su condición y terminar con su sequía goleadora. Spalletti lo sigue de cerca.
-- «Gazzetta dello Sport»: La Juventus envió un ojeador al partido Países Bajos-Alemania para seguir de cerca a Brobbey y van Dijk. Brobbey gusta por sus características y cuesta unos 40 millones de euros. Van Dijk, con contrato hasta 2027, es uno de los agentes libres monitoreados.
-- «Corriere dello Sport»: El aumento de capital de 250 millones de euros de Elkann multiplica las responsabilidades de Lucio. La clasificación para la Champions League es una obligación para equilibrar la nueva intervención financiera.
-- «Tuttosport»: La Juventus evalúa 8 perfiles con contratos a punto de expirar para un salto de calidad futuro con contención de costos: Lobotka, Brahim Díaz, Alisson, Solet, Kovacic, Beltran, Raum y Mateta. Mitchell del Crystal Palace también interesa. Kolo Muani ya entrena con un dedo roto.
+- «Corriere dello Sport»: Lista de la Juve: Bernasconi también está. De Udogie a Palmisani.
+- «Tuttosport»: Licina se luce en su regreso a la Juve. El talento cedido a la Cremonese está destacando, luego se lesiona. En el partido de prueba en la Continassa, ganado 1-0 por los grigiorossi, el mediocampista ofensivo alemán volvió locos a los defensores. Una mala caída y fractura de muñeca: operado de inmediato. Spalletti probó a Cambiaso como regista, aplausos para los talentos de segunda generación Marchisio y Montero.
+- «@ilbianconerocom»: Sergej Barbarez (entrenador de Bosnia) a vijesti.ba: "Kerim no quería salir, tenía calambres y por eso lo reemplazamos".
+- «@ilbianconerocom»: Adin Licina ha sido operado para reducir la fractura de su muñeca izquierda sufrida en el partido amistoso en el JTC. La intervención tuvo lugar en el JMedical, según lo acordado entre Cremonese y Juventus, y fue perfectamente exitosa. Nuevas evaluaciones después de 72 horas de descanso.
+- «SportMediaset»: Edon Zhegrova: "Estoy realmente muy feliz en la Juventus, es un gran club y solo puedo estar contento con mis compañeros, el míster, el staff, todo el equipo. Es un privilegio para mí ser parte de este club, y daré lo mejor de mí cada vez que sea elegido para saltar al campo con la Juventus".
+- «@ilbianconerocom»: Mientras la Juventus está a punto de comenzar su calentamiento, Ekhator está trabajando en un campo secundario. Está haciendo ejercicios individuales con el balón, continuando así su hoja de ruta de recuperación.
+- «@ilbianconerocom»: Grandes abrazos y saludos con el staff de la Juventus para Adin Licina, a su regreso a la Continassa.
+- «Tuttosport»: La Juventus tiene un plan claro para Licina: traerlo de vuelta a Turín al final de la temporada. La simple cesión a la Cremonese está diseñada para permitirle jugar continuamente sin presión. El club bianconero se mostró inicialmente reacio a dejarlo ir, pero consideró más útil garantizarle un año como protagonista clave y sigue de cerca su progreso. El objetivo es darle la bienvenida de nuevo e integrarlo permanentemente en las rotaciones del primer equipo.
+- «@ilbianconerocom»: Neto no participará en el partido amistoso entre Juventus y Cremonese porque aún se encuentra en fase de re-atletización.
