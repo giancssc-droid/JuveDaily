@@ -1,17 +1,13 @@
-📅 Juventus - Friday 09 de October de 2026
-
-⭐ Tier 1
-- «Romeo Agresti»: Jeff Ekhator progresa bien en su recuperación y podría volver en noviembre, ya ha reanudado los ejercicios con balón en el campo.
-- «Fabrizio Romano»: Juventus sigue de cerca a Palmisani, ha sido observado por scouts y continuarán monitoreándolo, aunque por ahora solo hay contactos informales y no negociaciones.
-- «Romeo Agresti»: Juventus sigue a Bart Verbruggen, el portero titular del Brighton.
-- «Romeo Agresti»: Nico González ganará 3.6/3.7M€ + bonos para acercarse a los 4M€; el impacto contable positivo será limitado, reduciendo el costo anual de 11.5M€ a 9.7/9.8M€.
-- «Romeo Agresti»: La alineación que Spalletti probó para el Cagliari es: Vicario; Kalulu, Bremer, Lucumí, Celik; Douglas Luiz, Sarr; Conceição, McKennie, Nico González; Kolo Muani.
-- «Romeo Agresti»: Thuram regresó a Hauteville, cerca de Lyon, para continuar su rehabilitación y recuperar su condición física bajo la supervisión de Sonnery-Cottet.
+📅 Juventus - Saturday 10 de October de 2026
 
 🥈 Tier 2
-- «Giovanni Albanese»: Juventus evalúa nuevos delanteros por la falta de impacto de Kolo Muani y Woltemade, monitoreando a Retegui, Balogun y Raimondo.
+- «Nicolò Schira»: Riccardo Paonessa (nacido en 2009) ha extendido su contrato con la Juventus hasta 2029 (2+1).
+- «Mirko Di Natale»: Augusto Owusu se está recuperando de su lesión y se espera su regreso en pocos días.
+- «Giovanni Albanese»: Ekhator apunta a regresar entre finales de octubre y principios de noviembre; Spalletti lo espera para evaluar sus cualidades.
+- «@_Morik92_»: Fratini ya no es solo un acercamiento para el puesto de jefe de scouting en la Juventus, ha habido contactos.
 
 📰 Periódicos
-- «Tuttosport»: El director deportivo del Cagliari espera a la Juventus por Romano, quien puede hacer como Barella, pero por ahora debe trabajar con ellos. La urgencia del mercado invernal bianconero es un lateral izquierdo.
-- «Tuttosport»: Juventus está lista para asegurar a Nico González hasta 2030, con firma hoy y salario ajustado a 3.6M€, lo que permite distribuir la amortización y reducir el peso económico anual.
-- «@ilbianconerocom»: Lesión de Lois Openda en el partido Lens-Lyon.
+- «Tuttosport»: La Juventus está lista para reabrir la pista de Tagliafico, quien sigue siendo una prioridad para reforzar el lateral izquierdo.
+- «TuttoJuve»: Neto se perderá el partido contra el Cagliari debido a una suspensión de un partido que no ha cumplido.
+- «Sky Sport»: La probable alineación titular de la Juventus para el partido contra el Cagliari.
+- «Gazzetta dello Sport»: La probable alineación titular de la Juventus para el partido contra el Cagliari.
