@@ -1,6 +1,6 @@
-📅 Juventus - 2026-10-24
+📅 Juventus - 25 de octubre de 2026
 
 📰 Periódicos
-- «Tuttosport»: Spalletti está trabajando para transformar a Woltemade en un verdadero delantero centro de área, mejorando su posicionamiento, movimientos y juego aéreo.
-- «Sky Sport»: La Juventus tendrá 8 jugadores no disponibles para el partido contra el Lecce; Ekhator, Çelik, Conceição y Nico González regresarán después del parón de noviembre, mientras que Yildiz, Thuram, Locatelli y Grabara volverán en 2027.
-- «Gazzetta dello Sport»: La Juve se juega todo contra el Lecce; una derrota dejaría a Spalletti con 11 puntos después de 8 jornadas, el peor inicio bianconero en los últimos 10 años.
+- «Corriere dello Sport»: La Juventus suma 14 puntos y se ubica en el 7mo lugar tras vencer 2-0 al Lecce, con Lucio destacando la victoria para quienes llevan al club en el corazón.
+- «Tuttosport»: Douglas Luiz y McKennie fueron protagonistas en la victoria de la Juventus, que recupera el 6to lugar en la tabla.
+- «Sky Sport»: Douglas Luiz se mostró feliz por la victoria y el gol, pero reconoció que el equipo debe mejorar para mantener el nivel durante todo el partido.
