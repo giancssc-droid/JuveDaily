@@ -1,18 +1,25 @@
-📅 Juventus - Wednesday 28 de October de 2026
-
-⭐ Tier 1
-- «Fabrizio Romano»: La posibilidad de que el Manchester United cambie de entrenador es concreta, pero no hay nada con Conte. Esto podría interesar a la Juventus si se abre una oportunidad, aunque siempre han mostrado fe en Spalletti.
-- «Fabrizio Romano»: La Juventus ya se ha dado cuenta de la necesidad de intervenir en el mercado de enero para arreglar algo, considerando los muchos jugadores lesionados.
-- «Fabrizio Romano»: La confianza en Spalletti nunca estuvo en discusión hasta hoy, pero el rendimiento en Génova ha generado gran insatisfacción en la dirección, que espera algo diferente.
+📅 Juventus - Thursday 29 de October de 2026
 
 🥈 Tier 2
-- «Nicolò Schira»: McKennie afirmó que deben mejorar y ser más agresivos, que las tácticas no importan en partidos como este, sino la lucha y la carrera.
-- «Nicolò Schira»: Spalletti declaró que no pueden entrenar debido a las muchas ausencias y que no sabe si es capaz de dar lo que se necesita, ya que el tiempo es escaso.
-- «Nicolò Schira»: Spalletti expresó que vivirá el partido contra el Napoli con gran emoción y un fuerte sentimiento hacia la ciudad, y que le preocupa que sea difícil hacer entender hacia dónde ha ido el fútbol.
-- «Nicolò Schira»: Spalletti comentó que tuvieron parte de culpa en los goles encajados y que desperdiciaron dos buenas oportunidades en la primera mitad, mostrando poca lucha desde el inicio del año.
-- «Nicolò Schira»: Spalletti pidió disculpas a los aficionados por el rendimiento y reconoció que no lograron encontrar el equilibrio correcto para contener a Baldanzi.
+- «Nicolò Schira»: Carnevali ha decidido usar mano dura, reuniéndose con el equipo, criticándolos y confrontándolos con sus responsabilidades. La Juventus irá a un retiro de entrenamiento punitivo de 48 horas en Continassa.
+
+- «Nicolò Schira»: Spalletti se juega su futuro antes del parón internacional; si las cosas no mejoran, será despedido. El club se muestra a la defensiva, pero los jugadores también deben asumir responsabilidades.
+
+- «Mirko Di Natale»: Si hay un cambio gerencial entre Juventus y Luciano Spalletti, los nombres confirmados son Didier Deschamps, Stefano Pioli y Paulo Sousa.
+
+- «Mirko Di Natale»: La Juventus realizará un retiro de entrenamiento a partir de mañana, tras una discusión entre Carnevali y el equipo en el entrenamiento matutino.
+
+- «Nicolò Schira»: Antonio Conte se encuentra en Sharm el-Sheikh, recibiendo llamadas de insiders, pero parece orientado a esperar la próxima temporada para aceptar un club de la Serie A, a menos que un club inglés como el Manchester United lo llame.
+
+- «Mirko Di Natale»: La Juventus sigue trabajando en reforzar el sector de scouting, pero el Real Madrid también ha contactado a Fratini, con quien la Juve ya había tenido contacto.
 
 📰 Periódicos
-- «Corriere dello Sport»: La Juventus sufrió su tercera derrota en 9 partidos, perdiendo 2-0 ante el Genoa y quedando a 11 puntos de Inter y Lazio.
-- «Tuttosport»: La Juventus fue humillada por un gran Genoa, con Spalletti en problemas y a 11 puntos de Inter y Lazio.
-- «Sky Sport»: Weston McKennie declaró que las tácticas no son el problema, sino la falta de agresividad, lucha y correr por el compañero.
+- «Corriere dello Sport»: Spalletti no está en riesgo, Pioli está en primera línea. La Juventus, en retiro y bajo juicio.
+
+- «TuttoSport»: Carnevali regaña a los jugadores: retiro de entrenamiento al menos hasta el partido contra el Napoli. La Juventus considera que el principal culpable no es Spalletti y la intención es seguir con el técnico hasta el final de la temporada.
+
+- «Sky Sport»: Spalletti evalúa una revolución en la alineación titular antes del partido contra el Napoli para reaccionar a la dura derrota contra el Genoa.
+
+- «TuttoSport»: La derrota de ayer ha aumentado la preocupación de la directiva. Hay discusiones internas en la Continassa para analizar una temporada complicada. Elkann sigue confirmando su confianza en Spalletti, pero exige respuestas inmediatas.
+
+- «Gazzetta dello Sport»: La derrota en Génova reabre las reflexiones sobre el futuro de Spalletti. El partido del domingo contra el Napoli podría ser una verdadera prueba final sin apelación.
