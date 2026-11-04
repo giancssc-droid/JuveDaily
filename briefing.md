@@ -1,13 +1,11 @@
-📅 Juventus - Tuesday 03 de November de 2026
-
-⭐ Tier 1
-- «Romeo Agresti»: McKennie no estará en el partido de Europa League contra el AZ, y se evaluará su disponibilidad para el partido en Florencia. Alajbegovic y Cabal están disponibles para ambos partidos.
+📅 Juventus - 04 de noviembre de 2026
 
 🥈 Tier 2
-- «Giovanni Albanese»: Juventus necesita un delantero centro, un mediocampista y un lateral izquierdo. Los nombres para el mercado de invierno son Tagliafico, Hojbjerg y Sorloth.
-- «Nicolò Schira»: Sergio Conceição ha sido contactado por el Fenerbahce para el puesto de entrenador, con un contrato hasta 2028.
-- «Matteo Moretto»: Es temprano para hablar de la compra de Joao Mario, pero la Fiorentina planea comprar un lateral derecho, por lo que su permanencia no es segura y podría regresar a la Juventus.
+- «Giovanni Albanese»: Antes del retiro, Carnevali habló directamente con los jugadores para aclarar el ambiente y monitorear a todos. Contra el Napoli, el club vio un equipo cohesionado, lo que había faltado.
+- «Alfredo Pedullà»: Kolo Muani podría ir al banquillo, con Woltemade como titular, desarrollando una solución táctica con un extremo adicional, ya que el francés no puede jugar ni como extremo.
 
 📰 Periódicos
-- «Tuttosport»: Los fans quieren que Alajbegović sea titular. Ravanelli afirma que él, Boga y Zhegrova siempre deberían jugar. El gol de Alajbegović contra el Napoli ha reavivado el entusiasmo.
-- «IlBianconero»: McKennie tiene fatiga en el aductor, Alajbegović solo un golpe en la rodilla y Cabal solo calambres; todos los problemas están resueltos.
+- «Sky Sport»: McKennie podría perderse el partido contra el AZ, pero su convocatoria no está descartada; podría viajar para apoyar al equipo y ser una opción de emergencia.
+- «Corriere dello Sport»: La Juventus relanza con otro aumento de capital de 250 millones; Carnevali afirma que son un club fuerte y ambicioso, y Spalletti es el entrenador con su apoyo.
+- «Tuttosport»: 120 millones de euros del aumento de capital de 250 millones se destinarán al mercado, manteniendo la competitividad deportiva desde el scouting hasta los fichajes y la infraestructura.
+- «L'Équipe»: La Juventus sigue de cerca a Ait Nouri, quien busca más minutos y podría pedir un traspaso en enero; podría ser una oportunidad de préstamo con obligación de compra.
