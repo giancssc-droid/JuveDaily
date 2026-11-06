@@ -1,12 +1,13 @@
-📅 Juventus - 05 de noviembre de 2026
-
-🥈 Tier 2
-- «Nicolò Schira»: Carnevali busca reducir el número de extranjeros en la Juventus y dar más espacio a jóvenes italianos, construyendo un núcleo sólido con sentido de pertenencia.
-- «Giovanni Albanese»: Antes del retiro, Carnevali habló con los jugadores para aclarar el ambiente y explicar que todos están siendo monitoreados, buscando cohesión en el equipo.
-- «Alfredo Pedullà»: Kolo Muani podría ser suplente, con Woltemade titular, desarrollando una solución táctica con un extremo adicional.
+📅 Juventus - 06 de noviembre de 2026
 
 📰 Periódicos
-- «Corriere dello Sport»: El Derby de los hermanos Koopmeiners se presenta en el AZ Alkmaar vs Juventus; McKennie es baja por fatiga muscular.
-- «Tuttosport»: Spalletti advierte al equipo antes del AZ-Juve: "Chicos, todo depende de ustedes", con Cambiaso en el campo por necesidad y Kovacs en la mira del mercado.
-- «Sky Sport»: La probable alineación titular de la Juventus para el partido contra el AZ Alkmaar.
-- «Sky Sport»: McKennie podría perderse el partido contra el AZ, pero una convocatoria aún no está descartada para apoyar al grupo, con la decisión final pendiente.
+- «Sky Sport»: Luciano Spalletti evalúa el partido, destacando la actitud de los jugadores y la importancia de tomar decisiones, lamentando la falta de capacidad para encontrar espacios y la indecisión.
+- «Sky Sport»: Spalletti se muestra satisfecho con el esfuerzo colectivo, mencionando a Lucumí y Kalulu, y resaltando la presión en campo contrario.
+- «Sky Sport»: Luciano Spalletti comenta sobre los sustitutos, señalando que Boga y Ekhator pueden causar daño, pero el equipo se replegó demasiado.
+- «Sky Sport»: Spalletti evalúa el rendimiento de jugadores como Kolo Muani y Koopmeiners, destacando la autoridad y el coraje del equipo en un campo difícil.
+- «Sky Sport»: Luciano Spalletti enfatiza que hay que marcar el gol para cerrar los partidos, no solo aguantar el resultado.
+- «Corriere dello Sport»: Kolo Muani fue clave en la victoria de la Juventus contra el AZ (2-1), con asistencia y gol, llevando a Spalletti a la quinta posición en Europa.
+- «Tuttosport»: La Juventus venció al AZ con goles de Koopmeiners y Kolo Muani, aunque Spalletti se enfureció por los nervios finales del equipo.
+- «Sky Sport»: Luciano Spalletti critica la bajada de nivel en la segunda mitad, señalando que en Europa los errores se pagan caro.
+- «Sky Sport»: Luciano Spalletti expresa satisfacción por la importante victoria contra un equipo invicto en casa en Europa durante 17 partidos, pidiendo humildad y crédito para el equipo.
+- «Sky Sport»: Federico Gatti elogia a Kolo Muani como un jugador "increíblemente fuerte" con características atléticas que la Juventus a veces no explota.
