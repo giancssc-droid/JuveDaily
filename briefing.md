@@ -1,19 +1,16 @@
-📅 Juventus - 07 de noviembre de 2026
-
-⭐ Tier 1
-- «Fabrizio Romano»: No hay registros de contacto directo o indirecto entre la Juventus y Conte; él está esperando la oportunidad adecuada, pero no tiene prisa.
-- «Gianluca Di Marzio»: La probable alineación titular de la Juventus para el Fiorentina-Juventus.
+📅 Juventus - 2026-11-08
 
 🥈 Tier 2
-- «Mirko Di Natale»: Posible formación para el partido Fiorentina-Juventus: Vicario; Gatti, Bremer, Lucumí; Kalulu, McKennie, Douglas Luiz, Cabal; Alajbegovic, Kolo Muani; Woltemade.
-- «Nicolò Schira»: Es poco probable que Carnesecchi sea comprado por un gran club en Italia, y su camino podría llevarlo a la Premier League, con el Manchester United en la pole position.
-- «Nicolò Schira»: João Mário probablemente no será comprado por la Fiorentina y podría regresar a Turín en enero; la Juventus podría quedárselo o buscarle otro club.
-- «Nicolò Schira»: Las peticiones de Luciano Spalletti para el mercado de invierno son claras: un lateral izquierdo, un delantero si Kolo Muani y Woltemade no rinden, y un centrocampista dependiendo de las lesiones.
+- «Nicolò Schira»: Federico Gatti, defensa central de la Juventus, ha sido convocado por Roberto Mancini a la Selección Italiana para reemplazar al lesionado Gianluca Mancini.
 
 📰 Periódicos
-- «Sky Sport»: Probable alineación de la Juventus: Vicario; Gatti, Bremer, Lucumi; Kalulu, McKennie, Douglas Luiz, Cabal; Kolo Muani, Woltemade, Alajbegovic.
-- «Gazzetta dello Sport»: Spalletti está considerando reintroducir el tridente Woltemade-Kolo Muani-Alajbegovic, una solución táctica que ha dado excelentes resultados.
-- «Tuttosport»: Spalletti está intentando sacar lo mejor del dúo Kolo Muani-Woltemade, pero ambos rinden mejor cuando juegan juntos y ninguno es un delantero centro puro, por lo que el club podría intervenir en enero buscando a Sorloth o Balogun.
-- «TuttoJuve»: La Juventus no ha confirmado un problema de fatiga muscular para Cambiaso, por lo que aún tendría posibilidades de ser convocado para el partido en Florencia.
-- «Gazzetta dello Sport»: Cambiaso no estará disponible contra la Fiorentina debido a fatiga muscular, pero Spalletti espera recuperar a McKennie y Çelik.
-- «@ilbianconerocom»: Hoy, McKennie y Çelik realizaron un entrenamiento parcial "con el grupo", compuesto por jugadores con menos minutos en el partido anterior y algunos del sector juvenil.
+- «Sky Sport»: Luciano Spalletti habló sobre el gol evitable de un córner, la interpretación de la defensa zonal y la importancia de la concentración.
+- «Tuttosport»: La portada destaca el empate 2-2 entre Fiorentina y Juventus, con doble remontada gracias a Kolo Muani y Bremer, y un penalti claro no concedido.
+- «Sky Sport»: Luciano Spalletti comentó sobre el rendimiento de Kolo Muani, señalando que ahora tiene una convicción y una interpretación diferente, mostrando sus cualidades sin importar la posición.
+- «Sky Sport»: Luciano Spalletti analizó el partido, lamentando los goles evitables y la falta de consistencia individual y de equipo, a pesar de los momentos de buen juego.
+- «Sky Sport»: Luciano Spalletti, en rueda de prensa, afirmó que no teme haber perdido el vestuario y que está buscando soluciones para mejorar, destacando que el equipo jugó una parte del partido increíblemente bien.
+- «Sky Sport»: Luciano Spalletti, en rueda de prensa, se mostró preocupado por la clasificación y consciente de la exigencia de ganar la liga y la Europa League.
+- «Sky Sport»: Luciano Spalletti, en rueda de prensa, expresó su satisfacción con el rendimiento de Kolo Muani, quien ahora es el jugador que querían, capaz de jugar en cualquier posición con poder y calidad.
+- «Sky Sport»: Luciano Spalletti, en rueda de prensa, no está completamente feliz por la falta de consistencia en el fútbol del equipo, que alterna momentos de concentración con errores y pérdidas de posesión.
+- «DAZN»: Luciano Spalletti, al ser preguntado sobre el posible penalti a Joao Mario, evadió la pregunta diciendo que ya lo había visto en el campo.
+- «DAZN»: Luciano Spalletti explicó la elección de jugar con dos delanteros debido a la presión agresiva del rival y la necesidad de ir directo a los atacantes, destacando la mejora de Kolo Muani.
