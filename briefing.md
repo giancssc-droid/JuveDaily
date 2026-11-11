@@ -1,17 +1,17 @@
-📅 Juventus - Tuesday 10 de November de 2026
+📅 Juventus - Wednesday 11 de November de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano»: La Juventus estará presente en el mercado y evaluará varias situaciones, el número y tipo de operaciones dependerán de la condición del equipo en enero, considerando lesiones y rendimientos.
-- «Fabrizio Romano»: Edon Zhegrova no está muy contento con su situación en la Juventus; a principios de temporada, el club lo consideraba fuera del proyecto y lo habría vendido al Al-Ittihad.
-- «Fabrizio Romano»: A pesar del empate en Florencia y la inconsistencia, la directiva de la Juventus no cuestiona la continuidad de Luciano Spalletti.
+- «Romeo Agresti»: La Juventus ha optado por una estrategia de gestión sin intervenir en el entrenador, manteniendo una voluntad férrea de seguir adelante y no considerando a Spalletti como el único responsable. El plan incluye no cambiar al entrenador, recuperar a los lesionados y realizar movimientos en el mercado de enero.
+- «Romeo Agresti»: A pesar de las especulaciones sobre Antonio Conte, no ha habido contactos reales, negociaciones o diálogos entre la Juventus y él en las últimas semanas o meses. Simone Inzaghi agrada a la dirección bianconera como opción para el futuro, pero las conversaciones son prematuras ya que la Juve mantiene total confianza en Spalletti.
 
 🥈 Tier 2
-- «Mirko Di Natale»: La Juventus envió ojeadores al U-Power Stadium para observar a Bernasconi y Varela.
-- «Mirko Di Natale»: Ayer hubo un encuentro entre Fratini y la Juventus; las conversaciones por el puesto de jefe de ojeadores se están intensificando y pronto se tomará una decisión definitiva.
+- «Mirko Di Natale»: La Juventus evaluará ofertas (alrededor de 25/30 millones de euros) por Andrea Cambiaso a partir del mes de enero.
+- «Mirko Di Natale»: Las probabilidades de una salida de Jeff Ekhator en enero en calidad de cedido han disminuido; la Juventus tiene la intención de retenerlo.
+- «Nicolò Schira»: Simone Inzaghi ha decidido dejar el Al Hilal al final de la temporada y no extenderá su contrato, que expira en junio.
 
 📰 Periódicos
-- «Tuttosport»: Yildiz confirmó su regreso en diciembre, intensificará sus entrenamientos y siente mucha nostalgia por el equipo.
-- «Sky Sport»: La Juventus busca recuperar a Francisco Conceição, Nico González y Andrea Cambiaso para el partido contra el Venezia, aprovechando el parón internacional para trabajar en su recuperación.
-- «Tuttosport»: La Juventus no ha recibido ningún penalti a favor en la Serie A y lidera el ranking de postes y travesaños con 8.
-- «Tuttosport»: En el Franchi, Cabal de la Juventus fue insultado y tuvo que abandonar las gradas sin poder dar su camiseta a un aficionado juventino; hubo lanzamiento de objetos y referencias a Heysel.
-- «IlBianconero»: Pierre Kalulu sufre una lesión muscular en el isquiotibial izquierdo, confirmada por Francia, y se perderá la convocatoria de la selección para permanecer en Turín y recibir tratamiento.
+- «Tuttosport»: Kolo Muani como extremo convence a Spalletti; así la Juve podría vender a Conceição o Zhegrova para hacer espacio a un delantero centro. Scamacca se suma a Sørloth y Balogun como posible oportunidad en enero.
+- «Tuttosport»: Pierre Kalulu, lateral derecho de la Juventus, apunta a regresar el 29 de noviembre para el partido contra el Como. Se perderá los partidos contra el Venezia y el Omonia.
+- «Tuttosport»: Kenan Yildiz ya ha regresado a los entrenamientos en la Continassa y se espera que esté disponible para Spalletti en diciembre.
+- «Gazzetta dello Sport»: La Juventus busca la Champions League a toda costa y evalúa fichar un delantero centro, un mediocampista y un lateral izquierdo en enero, respetando el Acuerdo de Liquidación.
+- «Corriere dello Sport»: La Juventus busca entre Sørloth y Balogun, siendo difícil llegar a Retegui.
