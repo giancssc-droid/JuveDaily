@@ -1,16 +1,14 @@
-📅 Juventus - 15 de noviembre de 2026
-
-⭐ Tier 1
-- «Fabrizio Romano»: Zirkzee sigue pensando en volver a Italia, y el nombre de la Juventus podría volver a sonar si regresa a la Serie A en 2027.
+📅 Juventus - Monday 16 de November de 2026
 
 🥈 Tier 2
-- «Nicolò Schira»: Dos clubes extranjeros (uno de la Ligue 1 y otro de Arabia Saudita) han preguntado por el extremo de la Juventus Edon Zhegrova, quien podría salir en el mercado de enero.
-- «Mirko Di Natale»: La dirección de la Juventus aprecia a Liam Delap del NFFC, quien anotó un doblete en su último partido contra el City.
-- «Giovanni Albanese»: La Juventus necesita un mediocampista que aporte seguridad; Hojbjerg está en la lista, y también observan a Bakola y Doumbia.
+- «Giovanni Albanese»: El Manchester United, con Pochettino, quiere a McKennie. La Juventus no prioriza su venta, pero una megaoferta podría abrir un escenario inesperado en enero.
+- «Giovanni Albanese»: El nombre principal para el puesto de delantero es Sørloth, buscando un acuerdo con el Atlético de Madrid. Las alternativas son Balogun y Retegui.
+- «Giovanni Albanese»: Spalletti espera más personalidad y calidad en la construcción de juego de Lucumí, buscando la versión que mostró en el Bologna.
 
 📰 Periódicos
-- «Tuttosport»: La Juventus está avanzando con Calhanoglu, cuyo contrato con el Inter expira en junio y su renovación es complicada; podría ser una oportunidad para la Juve.
-- «Corriere dello Sport»: La Juventus hace un movimiento por Balde, quien podría dejar el Barça. Raum del Leipzig también está en la carrera.
-- «Gazzetta dello Sport»: La Juventus podría intervenir en el mercado de invierno a través de ventas para financiar nuevos fichajes, con Gatti y Cabal como candidatos a salir en defensa, y Zhegrova en ataque.
-- «Tuttosport»: Hakan Calhanoglu tienta a la Juventus; su renovación con el Inter es muy difícil. El club también evalúa a Raum del Leipzig entre los agentes libres.
-- «Corriere dello Sport»: La Juventus busca un mediocampista y un delantero centro en enero, con Spalletti presionando por jugadores listos como Sørloth.
+- «Corriere dello Sport»: La Juventus avanza en negociaciones con Atlético de Madrid y Barcelona por los préstamos de Sørloth y Balde.
+- «Tuttosport»: Spalletti anticipa un punto de inflexión con el regreso de Nico y Conceição, y la ambición de Yildiz, buscando el ascenso en la liga y la clasificación a Champions League.
+- «IlBianconero»: Nueva alarma por Zeki Çelik de la Juventus: molestias en el isquiotibial izquierdo durante el calentamiento contra Francia, la misma zona de su reciente lesión.
+- «TuttoJuve»: Vasilije Adzic sufrió una lesión física durante el partido entre Chipre y Montenegro; ambos clubes esperan actualizaciones.
+- «TuttoJuve»: Roberto Mancini, exjugador de la Sampdoria y fan de la Juventus, recordó la tragedia de Heysel como un suceso que nunca debe olvidarse.
+- «TuttoJuve»: La Juventus debe trabajar en salidas en enero; Gatti podría irse por una buena oferta, Cabal está en riesgo, y Rugani solo saldría cedido. En el ataque, Ekhator y Zhegrova podrían despedirse.
