@@ -1,18 +1,20 @@
-📅 Juventus - Saturday 21 de November de 2026
+📅 Juventus - 22 de noviembre de 2026
 
 ⭐ Tier 1
-- «Fabrizio Romano, Matteo Moretto»: Conceição está feliz en la Juve y no quiere irse; Newcastle no cuenta con Woltemade para el próximo verano y lo considera un jugador para vender.
-- «Fabrizio Romano»: No hay posibilidades de que Benjamin Šeško salga en enero; Zirkzee podría ser un caso diferente dependiendo de Pochettino.
-- «Fabrizio Romano»: Un regreso de Kim a Italia es inviable debido a su alto salario y a que está jugando regularmente en el Bayern Múnich.
+- «Romeo Agresti»: Spalletti tiene en mente un cambio a un 4-3-3, pero no se verá contra el Venezia por falta de personal defensivo en los flancos, siendo más probable un 3-4-2-1.
+- «Romeo Agresti»: El entorno de Zhegrova busca opciones para enero debido a su limitado tiempo de juego, evaluando una posible venta si llegan ofertas.
 
 🥈 Tier 2
-- «Alfredo Pedullà»: La Juventus no tomó bien las palabras de Conte, considerando que el momento no fue el adecuado en medio de un proceso de reconstrucción.
-- «Matteo Moretto»: Brahim ya ha firmado una renovación con el Real Madrid y está muy enamorado del club, aunque quiere jugar más.
-- «Mirko Di Natale»: La Juventus está trabajando en la posibilidad de un préstamo con opción de compra por Hojbjerg, aunque el Marsella prefiere una transferencia permanente.
-- «Nicolò Schira»: El futuro de Luciano Spalletti en la Juventus está ligado a los resultados; Conte e Inzaghi son posibles alternativas para el banquillo bianconero.
-- «Mirko Di Natale»: Simone Bernardo, agente de Owusu, afirmó que el jugador seguirá con el JNextGen por algunos partidos más, pero su camino cambiará en enero.
+- «Nicolò Schira»: Taylor está en la mira de clubes de la Premier League para enero, con la Lazio valorándolo entre 40 y 60 millones de euros; la Juventus también lo sigue de cerca.
+- «Alfredo Pedullà»: La Juventus debe prestar atención a posibles intercambios en enero, y en cuanto a David-Sorloth, se evalúa si es un salto de calidad o solo para liberar un contrato, con preferencia por ingresar 25 millones de euros.
+- «Giovanni Albanese»: No se descarta que la Juventus evalúe un cambio de entrenador al final de la temporada, dependiendo de los resultados de la segunda mitad.
+- «Giovanni Albanese»: Hay plena confianza en Spalletti al menos hasta el final de la temporada, y su posición nunca ha estado en cuestión.
+- «Alfredo Pedullà»: La Juventus no recibió bien las palabras de Conte, considerándolas inoportunas dada la delicada situación de reconstrucción del club.
 
 📰 Periódicos
-- «TuttoSport»: Destiny Udogie de Tottenham es una opción para reforzar el lateral izquierdo de la Juventus en enero, con la ayuda del ex director deportivo del Inter, Ausilio.
-- «Corriere dello Sport»: Luciano Spalletti busca tres puntos y consistencia contra el Venezia, estando a -6 de la zona de Champions League.
-- «TuttoJuve»: La Juventus está evaluando a Esposito, pero el Sassuolo no tiene intención de dejarlo ir en enero, ya que no quieren debilitar la plantilla a mitad de temporada.
+- «Sky Sport»: La probable alineación de la Juventus contra el Venezia sería: Vicario; Gatti, Bremer, Lucumi; McKennie, Douglas Luiz, Koopmeiners, Cabal; Kolo Muani, Alajbegovic; Woltemade.
+- «Tuttosport»: Spalletti responde a la autocandidatura de Conte, y McKennie aclaró la situación; Alajbegović recibe el impulso de Ibra.
+- «Gazzetta dello Sport»: Juventus y Atlético de Madrid trabajan en un intercambio David-Sorloth, pero las valoraciones financieras son el principal obstáculo.
+- «Tuttosport»: La Juventus tiene 5 nombres para la delantera, con Sørloth como prioridad (préstamo con opción de compra) y Varela como otra opción concreta, además de Raimondo, Scamacca y Balogun.
+- «Corriere dello Sport»: La Juventus está en una situación difícil, con Spalletti buscando tres puntos y consistencia ante el Venezia, a -6 de la zona de Champions League.
+- «Tuttosport»: La candidatura de Destiny Udogie a la Juventus cobra fuerza, con el ex director deportivo del Inter, Ausilio, gestionando su posible llegada desde el Tottenham.
