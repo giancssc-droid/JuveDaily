@@ -1,15 +1,15 @@
-📅 Juventus - 27 de noviembre de 2026
+📅 Juventus - 28 de noviembre de 2026
 
 ⭐ Tier 1
-- «Gianluca Di Marzio»: La Juventus se quedó con un jugador menos por un minuto contra el Omonia Nicosia debido a la nueva regla de sustitución, ya que Conceição tardó más de 10 segundos en salir del campo.
+- «Fabrizio Romano»: El Manchester United activó la opción de extender el contrato de Bruno Fernandes hasta 2028, pero las conversaciones sobre un nuevo acuerdo a largo plazo están en espera por solicitud del jugador, quien quiere entender el futuro del club.
+- «Fabrizio Romano»: El holandés Taylor está muy contento en la Lazio y no muestra intención de dejar el club, por lo que el interés de la Juventus es una pista a descartar por ahora.
+- «Fabrizio Romano»: Hay atención sobre Varela por 30/35 millones de euros, con interés del Monza en enero y contactos con Napoli y Juventus, aunque aún no hay acuerdos avanzados.
+- «Gianluca Di Marzio»: La probable alineación titular de la Juventus para el Como-Juventus.
 
 🥈 Tier 2
-- «Nicolò Schira»: Inter, Juventus, Napoli, Fiorentina, Como, Sassuolo y Monza están siguiendo al joven delantero Lorenzo Mezzotero (nacido en 2008) de la Sampdoria, quien ha marcado 4 goles en los últimos 4 partidos.
+- «Nicolò Schira»: Si la Juventus ficha otro delantero centro en enero, Ekhator podría salir cedido para encontrar más minutos, con Genoa, Sassuolo y Parma ya preguntando por él.
+- «Nicolò Schira»: Vasilije Adzic fue operado con éxito de la rodilla derecha y estará de baja hasta el final de la temporada.
+- «Mirko Di Natale»: Adzic sufrió un desprendimiento osteocondral en la rodilla derecha y fue operado, con un tiempo de recuperación de 3 meses o más.
 
 📰 Periódicos
-- «Sky Sport»: Jeremie Boga declaró que el equipo está sacudiéndose la tensión y ganando confianza con las victorias en Europa y la liga, y que deben mantener la consistencia.
-- «Corriere dello Sport»: La Juventus es segunda en la Europa League tras vencer 4-1 al Omonia Nicosia, con un gran debut de Ekhator y goles de Cambiaso, Conceição y Boga.
-- «Tuttosport»: La Juventus remonta contra el Omonia con goles de Cambiaso y Ekhator, quien fue sustituido por molestias musculares, y Spalletti sonríe con los recursos extra del equipo.
-- «Sky Sport»: Francisco Conceição agradeció al staff y a su familia por el apoyo durante su recuperación de una lesión, dedicándoles su gol.
-- «Sky Sport»: Francisco Conceição comentó que él y Ekhator trabajaron la jugada de su asistencia durante la semana y que Ekhator se merecía el gol por su esfuerzo.
-- «Sky Sport»: Francisco Conceição expresó su gran deseo de volver a jugar y marcar tras un mes de inactividad, feliz de haber ayudado al equipo a ganar y sumar puntos en la Europa League.
+- «Tuttosport»: Spalletti ha multiplicado las soluciones ofensivas de la Juve con 16 goleadores diferentes, y Sørloth sigue siendo el favorito para el refuerzo de invierno a pesar de su lesión.
